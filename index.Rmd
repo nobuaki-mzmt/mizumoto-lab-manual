@@ -1,60 +1,52 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "Mizumoto Lab Manual"
+author: 'Nobuaki Mizumoto'
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
-link-citations: yes
-github-repo: rstudio/bookdown-demo
+bibliography:
+- book.bib
+- packages.bib
+description: This is the lab manual for the Mizumoto Lab at Auburn University.
+github-repo: "nobuaki-mzmt/mizumoto-lab-manual"
 ---
 
-# About
+# Mizumoto Lab Manual
+ 
+![<!--- Mizumoto Lab Logo --->](images/icon.png){width=50% height=50%}
+ 
+## Welcome
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Welcome to the Mizumoto Lab at Auburn! 
 
-## Usage 
+**We are so existed to have you join us!** This manual aims to outline our goals, expectations, resources, and unique culture at our Lab. During your time here, we hope you will enjoy the research frontier to study the complex behavior of termites and scientific activities as a whole.Our collective aim is for everyone to leave the lab enriched with new skills, perspectives, and a network of colleagues and friends. We encourage you to leave your positive mark on the lab and make meaningful contributions. Like individuals, a lab evolves over time, shaped by each member's input. We eagerly anticipate the impact you will make during your stay with us.  
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+Mizumoto Lab started Jan 2024. The lab PI is Nobuaki Mizumoto (NM here after). You can reach me in person (Funchess 376A) or via email (nzm0095@auburn.edu). 
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+----------
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+## Mission Statement
 
-## Render book
+Mizumoto lab aims to trace the evolution of collective behavior in termites. We will identify behavioral rules underlying termite communications and relate behavioral diversity with social structures and pest status. We believe behavioral findings come from a new perspective and a small trick of experiments, not solely from advanced technology. Thus, we strive to create a constructive environment, turning daily discussions into exciting research ideas.  
+  
+Also, one of our missions is to provide a comprehensive understanding of termite diversity. Knowledge on termites are highly biased as a destructive structural pest. However, among > 3,000 termite species in this world, only a handful of species are counted as destructive pests. We want to reveal why some termites are pests and why others are not. We will contribute to society by sharing the inclusive pictures of our tiny creatures.
 
-You can render the HTML version of this example book without changing anything:
+----------
 
-1. Find the **Build** pane in the RStudio IDE, and
+## Notes
+Our lab manual is designed to be always under construction. Please input your feedback. I am thrived to create a better environments for all of the lab members, which should vary dynamically according to time.  
+I you are new to the lab, please have read and understand these lab policies (section 1-4), and then submit the [form]() to NM.
 
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
+This lab manual was inspired by several others, and borrows heavily from them (e.g., 
+[bablab](https://github.com/bablab/lab_manual), 
+and 
+[this one](https://github.com/memobc/memolab-manual) from the Ritchey Lab were the primary sources 
+and 
+the main template I used. 
+A little of [this one](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf) too).
 
-Or build the book from the R console:
+A lot of time was put into the creation of this document. Thinking about what we want our lab to be, what are we going to be known for, and how can we make this lab work for everyone. We really respect the principles and ideas we are aspiring to here, and for that reason, we ask that all new lab members read the manual in full.
+ 
+*This lab manual is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you want to make your own manual for a lab, or any other purpose, please feel free to take any ideas and inspiration for this one (and cite us), as well as from the others we have used when making this (and cite them).*
 
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
-
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+----------

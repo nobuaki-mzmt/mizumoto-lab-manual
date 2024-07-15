@@ -4,32 +4,26 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>A Minimal Book Example</title>
-  <meta name="description" content="<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p>" />
+  <title>Mizumoto Lab Manual</title>
+  <meta name="description" content="This is the lab manual for the Mizumoto Lab at Auburn University." />
   <meta name="generator" content="bookdown 0.40 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="A Minimal Book Example" />
+  <meta property="og:title" content="Mizumoto Lab Manual" />
   <meta property="og:type" content="book" />
   
-  <meta property="og:description" content="<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p>" />
-  <meta name="github-repo" content="rstudio/bookdown-demo" />
+  <meta property="og:description" content="This is the lab manual for the Mizumoto Lab at Auburn University." />
+  <meta name="github-repo" content="nobuaki-mzmt/mizumoto-lab-manual" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="A Minimal Book Example" />
+  <meta name="twitter:title" content="Mizumoto Lab Manual" />
   
-  <meta name="twitter:description" content="<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p>" />
+  <meta name="twitter:description" content="This is the lab manual for the Mizumoto Lab at Auburn University." />
   
 
-<meta name="author" content="John Doe" />
+<meta name="author" content="Nobuaki Mizumoto" />
 
 
-<meta name="date" content="2024-07-12" />
+<meta name="date" content="2024-07-15" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -37,7 +31,7 @@ set in the _output.yml file.</p>" />
   
   
 
-<link rel="next" href="hello-bookdown.html"/>
+<link rel="next" href="expectations-and-responsibilities.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -60,70 +54,6 @@ set in the _output.yml file.</p>" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 
 
-<style type="text/css">
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-    color: #aaaaaa;
-  }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { color: #008000; } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { color: #008000; font-weight: bold; } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
-</style>
 
 <style type="text/css">
   
@@ -168,35 +98,59 @@ div.csl-indent {
 <li><a href="./">A Minimal Book Example</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> About</a>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Mizumoto Lab Manual</a>
 <ul>
-<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#usage"><i class="fa fa-check"></i><b>1.1</b> Usage</a></li>
-<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#render-book"><i class="fa fa-check"></i><b>1.2</b> Render book</a></li>
-<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#preview-book"><i class="fa fa-check"></i><b>1.3</b> Preview book</a></li>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#welcome"><i class="fa fa-check"></i><b>1.1</b> Welcome</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#mission-statement"><i class="fa fa-check"></i><b>1.2</b> Mission Statement</a></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#notes"><i class="fa fa-check"></i><b>1.3</b> Notes</a></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="hello-bookdown.html"><a href="hello-bookdown.html"><i class="fa fa-check"></i><b>2</b> Hello bookdown</a>
+<li class="chapter" data-level="2" data-path="expectations-and-responsibilities.html"><a href="expectations-and-responsibilities.html"><i class="fa fa-check"></i><b>2</b> Expectations and Responsibilities</a>
 <ul>
-<li class="chapter" data-level="2.1" data-path="hello-bookdown.html"><a href="hello-bookdown.html#a-section"><i class="fa fa-check"></i><b>2.1</b> A section</a>
+<li class="chapter" data-level="2.1" data-path="expectations-and-responsibilities.html"><a href="expectations-and-responsibilities.html#general"><i class="fa fa-check"></i><b>2.1</b> General</a></li>
+<li class="chapter" data-level="2.2" data-path="expectations-and-responsibilities.html"><a href="expectations-and-responsibilities.html#graduate-students"><i class="fa fa-check"></i><b>2.2</b> Graduate students</a></li>
+<li class="chapter" data-level="2.3" data-path="expectations-and-responsibilities.html"><a href="expectations-and-responsibilities.html#skills"><i class="fa fa-check"></i><b>2.3</b> Skills</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="training-and-research-compliance.html"><a href="training-and-research-compliance.html"><i class="fa fa-check"></i><b>3</b> Training and Research Compliance</a>
 <ul>
-<li class="chapter" data-level="" data-path="hello-bookdown.html"><a href="hello-bookdown.html#an-unnumbered-section"><i class="fa fa-check"></i>An unnumbered section</a></li>
+<li class="chapter" data-level="3.1" data-path="training-and-research-compliance.html"><a href="training-and-research-compliance.html#essential-trainings"><i class="fa fa-check"></i><b>3.1</b> Essential trainings</a></li>
+<li class="chapter" data-level="3.2" data-path="training-and-research-compliance.html"><a href="training-and-research-compliance.html#graduate-school"><i class="fa fa-check"></i><b>3.2</b> Graduate School</a></li>
+<li class="chapter" data-level="3.3" data-path="training-and-research-compliance.html"><a href="training-and-research-compliance.html#scientific-integrity"><i class="fa fa-check"></i><b>3.3</b> Scientific Integrity</a>
+<ul>
+<li class="chapter" data-level="3.3.1" data-path="training-and-research-compliance.html"><a href="training-and-research-compliance.html#authorship"><i class="fa fa-check"></i><b>3.3.1</b> Authorship</a></li>
+<li class="chapter" data-level="3.3.2" data-path="training-and-research-compliance.html"><a href="training-and-research-compliance.html#data-management"><i class="fa fa-check"></i><b>3.3.2</b> Data management</a></li>
+<li class="chapter" data-level="3.3.3" data-path="training-and-research-compliance.html"><a href="training-and-research-compliance.html#reproducible-research"><i class="fa fa-check"></i><b>3.3.3</b> Reproducible Research</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="3" data-path="cross.html"><a href="cross.html"><i class="fa fa-check"></i><b>3</b> Cross-references</a>
+<li class="chapter" data-level="4" data-path="general-policies.html"><a href="general-policies.html"><i class="fa fa-check"></i><b>4</b> General Policies</a>
 <ul>
-<li class="chapter" data-level="3.1" data-path="cross.html"><a href="cross.html#chapters-and-sub-chapters"><i class="fa fa-check"></i><b>3.1</b> Chapters and sub-chapters</a></li>
-<li class="chapter" data-level="3.2" data-path="cross.html"><a href="cross.html#captioned-figures-and-tables"><i class="fa fa-check"></i><b>3.2</b> Captioned figures and tables</a></li>
+<li class="chapter" data-level="4.1" data-path="general-policies.html"><a href="general-policies.html#pay-rates"><i class="fa fa-check"></i><b>4.1</b> Pay rates</a>
+<ul>
+<li class="chapter" data-level="4.1.1" data-path="general-policies.html"><a href="general-policies.html#graduate-students-1"><i class="fa fa-check"></i><b>4.1.1</b> Graduate students</a></li>
+<li class="chapter" data-level="4.1.2" data-path="general-policies.html"><a href="general-policies.html#undergraduates"><i class="fa fa-check"></i><b>4.1.2</b> Undergraduates</a></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="parts.html"><a href="parts.html"><i class="fa fa-check"></i><b>4</b> Parts</a></li>
-<li class="chapter" data-level="5" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html"><i class="fa fa-check"></i><b>5</b> Footnotes and citations</a>
+<li class="chapter" data-level="4.2" data-path="general-policies.html"><a href="general-policies.html#lab-meetings-and-seminars"><i class="fa fa-check"></i><b>4.2</b> Lab meetings and seminars</a></li>
+<li class="chapter" data-level="4.3" data-path="general-policies.html"><a href="general-policies.html#noise-policy"><i class="fa fa-check"></i><b>4.3</b> Noise Policy</a></li>
+<li class="chapter" data-level="4.4" data-path="general-policies.html"><a href="general-policies.html#pi-office-hours"><i class="fa fa-check"></i><b>4.4</b> PI Office Hours</a></li>
+<li class="chapter" data-level="4.5" data-path="general-policies.html"><a href="general-policies.html#meetings"><i class="fa fa-check"></i><b>4.5</b> Meetings</a>
 <ul>
-<li class="chapter" data-level="5.1" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html#footnotes"><i class="fa fa-check"></i><b>5.1</b> Footnotes</a></li>
-<li class="chapter" data-level="5.2" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html#citations"><i class="fa fa-check"></i><b>5.2</b> Citations</a></li>
+<li class="chapter" data-level="4.5.1" data-path="general-policies.html"><a href="general-policies.html#weekly-lab-meetings"><i class="fa fa-check"></i><b>4.5.1</b> Weekly Lab Meetings</a></li>
+<li class="chapter" data-level="4.5.2" data-path="general-policies.html"><a href="general-policies.html#individual-meetings"><i class="fa fa-check"></i><b>4.5.2</b> Individual Meetings</a></li>
 </ul></li>
-<li class="chapter" data-level="6" data-path="blocks.html"><a href="blocks.html"><i class="fa fa-check"></i><b>6</b> Blocks</a>
+<li class="chapter" data-level="4.6" data-path="general-policies.html"><a href="general-policies.html#deadlines"><i class="fa fa-check"></i><b>4.6</b> Deadlines</a></li>
+<li class="chapter" data-level="4.7" data-path="general-policies.html"><a href="general-policies.html#presentations"><i class="fa fa-check"></i><b>4.7</b> Presentations</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="technologies.html"><a href="technologies.html"><i class="fa fa-check"></i><b>5</b> Technologies</a>
 <ul>
-<li class="chapter" data-level="6.1" data-path="blocks.html"><a href="blocks.html#equations"><i class="fa fa-check"></i><b>6.1</b> Equations</a></li>
-<li class="chapter" data-level="6.2" data-path="blocks.html"><a href="blocks.html#theorems-and-proofs"><i class="fa fa-check"></i><b>6.2</b> Theorems and proofs</a></li>
-<li class="chapter" data-level="6.3" data-path="blocks.html"><a href="blocks.html#callout-blocks"><i class="fa fa-check"></i><b>6.3</b> Callout blocks</a></li>
+<li class="chapter" data-level="5.1" data-path="technologies.html"><a href="technologies.html#footnotes"><i class="fa fa-check"></i><b>5.1</b> Footnotes</a></li>
+<li class="chapter" data-level="5.2" data-path="technologies.html"><a href="technologies.html#citations"><i class="fa fa-check"></i><b>5.2</b> Citations</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="opporunities.html"><a href="opporunities.html"><i class="fa fa-check"></i><b>6</b> Opporunities</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="opporunities.html"><a href="opporunities.html#current-funding-in-the-lab"><i class="fa fa-check"></i><b>6.1</b> Current funding in the lab</a></li>
+<li class="chapter" data-level="6.2" data-path="opporunities.html"><a href="opporunities.html#fundingfellowship-opporunities-for-students"><i class="fa fa-check"></i><b>6.2</b> Funding/Fellowship opporunities for students</a>
+<ul>
+<li class="chapter" data-level="6.2.1" data-path="opporunities.html"><a href="opporunities.html#conferences"><i class="fa fa-check"></i><b>6.2.1</b> Conferences</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="7" data-path="sharing-your-book.html"><a href="sharing-your-book.html"><i class="fa fa-check"></i><b>7</b> Sharing your book</a>
 <ul>
@@ -217,7 +171,7 @@ div.csl-indent {
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">A Minimal Book Example</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Mizumoto Lab Manual</a>
           </h1>
         </div>
 
@@ -226,34 +180,43 @@ div.csl-indent {
 
             <section class="normal" id="section-">
 <div id="header">
-<h1 class="title">A Minimal Book Example</h1>
-<p class="author"><em>John Doe</em></p>
-<p class="date"><em>2024-07-12</em></p>
+<h1 class="title">Mizumoto Lab Manual</h1>
+<p class="author"><em>Nobuaki Mizumoto</em></p>
+<p class="date"><em>2024-07-15</em></p>
 </div>
-<div id="about" class="section level1 hasAnchor" number="1">
-<h1><span class="header-section-number">Chapter 1</span> About<a href="index.html#about" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>This is a <em>sample</em> book written in <strong>Markdown</strong>. You can use anything that Pandoc’s Markdown supports; for example, a math equation <span class="math inline">\(a^2 + b^2 = c^2\)</span>.</p>
-<div id="usage" class="section level2 hasAnchor" number="1.1">
-<h2><span class="header-section-number">1.1</span> Usage<a href="index.html#usage" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Each <strong>bookdown</strong> chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter <em>must</em> start with a first-level heading: <code># A good chapter</code>, and can contain one (and only one) first-level heading.</p>
-<p>Use second-level and higher headings within chapters like: <code>## A short section</code> or <code>### An even shorter section</code>.</p>
-<p>The <code>index.Rmd</code> file is required, and is also your first book chapter. It will be the homepage when you render the book.</p>
+<div id="mizumoto-lab-manual" class="section level1 hasAnchor" number="1">
+<h1><span class="header-section-number">Chapter 1</span> Mizumoto Lab Manual<a href="index.html#mizumoto-lab-manual" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div class="float">
+<img src="images/icon.png" style="width:50.0%;height:50.0%" alt="" />
+<div class="figcaption"><!--- Mizumoto Lab Logo ---></div>
 </div>
-<div id="render-book" class="section level2 hasAnchor" number="1.2">
-<h2><span class="header-section-number">1.2</span> Render book<a href="index.html#render-book" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>You can render the HTML version of this example book without changing anything:</p>
-<ol style="list-style-type: decimal">
-<li><p>Find the <strong>Build</strong> pane in the RStudio IDE, and</p></li>
-<li><p>Click on <strong>Build Book</strong>, then select your output format, or select “All formats” if you’d like to use multiple formats from the same book source files.</p></li>
-</ol>
-<p>Or build the book from the R console:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1" tabindex="-1"></a>bookdown<span class="sc">::</span><span class="fu">render_book</span>()</span></code></pre></div>
-<p>To render this example to PDF as a <code>bookdown::pdf_book</code>, you’ll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <a href="https://yihui.org/tinytex/" class="uri">https://yihui.org/tinytex/</a>.</p>
+<div id="welcome" class="section level2 hasAnchor" number="1.1">
+<h2><span class="header-section-number">1.1</span> Welcome<a href="index.html#welcome" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Welcome to the Mizumoto Lab at Auburn!</p>
+<p><strong>We are so existed to have you join us!</strong> This manual aims to outline our goals, expectations, resources, and unique culture at our Lab. During your time here, we hope you will enjoy the research frontier to study the complex behavior of termites and scientific activities as a whole.Our collective aim is for everyone to leave the lab enriched with new skills, perspectives, and a network of colleagues and friends. We encourage you to leave your positive mark on the lab and make meaningful contributions. Like individuals, a lab evolves over time, shaped by each member’s input. We eagerly anticipate the impact you will make during your stay with us.</p>
+<p>Mizumoto Lab started Jan 2024. The lab PI is Nobuaki Mizumoto (NM here after). You can reach me in person (Funchess 376A) or via email (<a href="mailto:nzm0095@auburn.edu" class="email">nzm0095@auburn.edu</a>).</p>
+<hr />
 </div>
-<div id="preview-book" class="section level2 hasAnchor" number="1.3">
-<h2><span class="header-section-number">1.3</span> Preview book<a href="index.html#preview-book" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in “Preview book”, or from the R console:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="index.html#cb2-1" tabindex="-1"></a>bookdown<span class="sc">::</span><span class="fu">serve_book</span>()</span></code></pre></div>
+<div id="mission-statement" class="section level2 hasAnchor" number="1.2">
+<h2><span class="header-section-number">1.2</span> Mission Statement<a href="index.html#mission-statement" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Mizumoto lab aims to trace the evolution of collective behavior in termites. We will identify behavioral rules underlying termite communications and relate behavioral diversity with social structures and pest status. We believe behavioral findings come from a new perspective and a small trick of experiments, not solely from advanced technology. Thus, we strive to create a constructive environment, turning daily discussions into exciting research ideas.</p>
+<p>Also, one of our missions is to provide a comprehensive understanding of termite diversity. Knowledge on termites are highly biased as a destructive structural pest. However, among &gt; 3,000 termite species in this world, only a handful of species are counted as destructive pests. We want to reveal why some termites are pests and why others are not. We will contribute to society by sharing the inclusive pictures of our tiny creatures.</p>
+<hr />
+</div>
+<div id="notes" class="section level2 hasAnchor" number="1.3">
+<h2><span class="header-section-number">1.3</span> Notes<a href="index.html#notes" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Our lab manual is designed to be always under construction. Please input your feedback. I am thrived to create a better environments for all of the lab members, which should vary dynamically according to time.<br />
+I you are new to the lab, please have read and understand these lab policies (section 1-4), and then submit the <a href="">form</a> to NM.</p>
+<p>This lab manual was inspired by several others, and borrows heavily from them (e.g.,
+<a href="https://github.com/bablab/lab_manual">bablab</a>,
+and
+<a href="https://github.com/memobc/memolab-manual">this one</a> from the Ritchey Lab were the primary sources
+and
+the main template I used.
+A little of <a href="https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf">this one</a> too).</p>
+<p>A lot of time was put into the creation of this document. Thinking about what we want our lab to be, what are we going to be known for, and how can we make this lab work for everyone. We really respect the principles and ideas we are aspiring to here, and for that reason, we ask that all new lab members read the manual in full.</p>
+<p><em>This lab manual is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution - NonCommercial 4.0 International License</a>. If you want to make your own manual for a lab, or any other purpose, please feel free to take any ideas and inspiration for this one (and cite us), as well as from the others we have used when making this (and cite them).</em></p>
+<hr />
 
 </div>
 </div>
@@ -263,7 +226,7 @@ div.csl-indent {
         </div>
       </div>
 
-<a href="hello-bookdown.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="expectations-and-responsibilities.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -317,20 +280,6 @@ gitbook.start({
 });
 </script>
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    var src = "true";
-    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:")
-      if (/^https?:/.test(src))
-        src = src.replace(/^https?:/, '');
-    script.src = src;
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
 </body>
 
 </html>

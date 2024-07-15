@@ -1,0 +1,71 @@
+# Training and Research Compliance
+
+----------
+
+## Essential trainings  
+
+All lab members complete and keep track the following training:
+
+* Responsible Conduct in Research Training
+  + Please visit the [RCR website](https://cws.auburn.edu/OVPR/pm/compliance/rcr/home). Click on “Follow these steps to access the new course.”  Login to CITI and select Auburn University (you must do this for your training to be properly credited to you at Auburn).
+  
+* Lab safety training (Auburn University)-available through through [Bioraft](https://cws.auburn.edu/rms/pm/OnlineTraining).
+
+* Cybersecurity training
+  + To access the training, log into AU Access and select the Employee Services tab. Next, click the icon. You will be directed to the library of training videos that contains the required modules. To view the videos, select a module and click the icon. The videos may be viewed in any order. Typically within 24-hours after you have completed the modules, you will receive an email confirmation from <noreply@auburn.edu> along with a certification of completion.
+
+* Driver’s Safety training
+  + Register and follow the directions on [this page](https://cws.auburn.edu/shared/files?id=227&filename=Driver%20Safety%20Training%20PKI.pdf).
+
+* In the field, we are regularly exposed to venomous insects (fire ants, bees, wasps). Likewise, food-based allergies are common and not always known or disclosed. To be prepared, graduate students and undergraduates that conduct or support field-based research (outside in landscapes collecting data) are excepted to complete and have verification of Anaphylaxis Training effective immediately for existing students or before you begin field work. The ADPH Anaphylaxis Training through BIORAFT is our best option. Sorry, this is an older, low quality 16 min video but the only source where training can be verified. There a is a short quiz following the video for you to complete that confirms knowledge gain from this training. This will also show in your Bioraft profile. o The epi-pen website has modern graphics and videos but does not provide a way to verify that training was completed. You can use this to support your knowledge gain is needed.
+
+* Review any relevant SOP in the lab.
+
+Once completed, please save the completion records as PDF.
+
+----------
+
+## Graduate School
+
+* Take the Assessment Pre-test. Message Dr. Hardy nbh0006@auburn.edu, and provide your name and Auburn ID number. He will reply with an invitation to join an Assessment course. This exam is not a reported grade, but used to evaluate knowledge gain and our teaching assessment goals.
+
+----------
+
+## Scientific Integrity
+
+### Authorship
+Authorship on papers and presentations is important and sensitive topic in academia.
+There is little consensus on the criteria for authorship on collaborative projects, most guidelines suggest authorship be given to those who made **significant intellectual contribution** to the study.
+So, what is the significant intellectual contribution? There is no clear criteria again but here are examples in my perspectives.
+
+* Collecting a rare species and samples for behavioral observations
+  + This is the most challenging and controversy one. 
+  
+
+
+We will follow the APA guidelines with respect to authorship:
+
+ > "Authorship credit should reflect the individual's contribution to the study. An author is considered anyone involved with initial research design, data collection and analysis, manuscript drafting, and final approval. However, the following do not necessarily qualify for authorship: providing funding or resources, mentorship, or contributing research but not helping with the publication itself. The primary author assumes responsibility for the publication, making sure that the data are accurate, that all deserving authors have been credited, that all authors have given their approval to the final draft; and handles responses to inquiries after the manuscript is published."
+
+At the start of a new project that occurs within the BABLab, the student or post-doc who is driving the project can expect to be the first author on the primary papers to come out of the project. Bridget will be the senior (i.e., last) author. Students and post-docs who help over the course of the project may also be authors, depending on their contributions. As it is sometimes hard to predict exactly where a project will end up (data collection, cleaning, and analysis in developmental labs can take a long time), the positioning on non-primary and non-senior authors will be decided when the paper is in the write-up phase. If a student or post-doc takes on a project but subsequently hands it off to another student or post-doc, they will most likely be handing over first-authorship to that student or post-doc too (they may also be co-first author, if that is appropriate). All of these issues are open to discussion with Bridget.
+
+ 
+### Data management
+
+### Reproducible Research
+ 
+The BABLab at UCLA is committed to performing reproducible research. Reproducible research means that, if you gave someone your raw data and analysis code they should be able to reproduce your results exactly. If they can’t it suggests that something is wrong (e.g., there is a mistake in the pipeline) or that you did not properly document the data collection, cleaning, or analysis process. Neither of these options is good. Therefore, we take steps towards ensuring that all aspects of the data collection, cleaning, and analysis are extremely well documented.
+ 
+For results to be reproducible, you need to be organized and document everything! Take detailed notes on your study design, make sure you save all of the citations for questionnaires you use, if you make up a questionnaire yourself, document that it was made for the study, so that you or someone else doesn’t spend hours looking for the citation later on down the track, thinking it was a validated measure. Keep notes on the different recruitment methods, inclusion/exclusion criteria, participant schedule for study days, all the research protocols, as well as any changes to the protocols that occur during the study. If something goes wrong, or something unusual happens, document that too. Document the parameters for the MRI scanner, document the versions of the software used to collect the data. Before you start collecting data, you should aim to have a private OSF project, or study that forks to the main project, that is as detailed as this example from the [Child Mind Institute](https://childmind.org).
+ 
+Once you have collected data, you need to take detailed notes on data cleaning and analysis. Even if you have preregistered your study design (which you very likely will do), you still need to document this stage, as you may move away from your preregistered cleaning and analysis choices for a variety of reasons. You need to know what those reasons are. You need to write down how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests. Additionally, your code should also be commented, and commented clearly. We all know what it’s like to sit down, quickly write a bunch of code to run an analysis without taking time to comment it, and then having no idea what we did a few months down the road. Comment your code so that every step is understandable by an outsider. Finally, it is highly encouraged that you use some form of version control (e.g., Git in combination with GitHub) to keep track of what code changes you made and when you made them, as well as sharing code with others.
+ 
+In sum, you should write copious notes on your study design and all of the measures before you start the study and place every bit of information on OSF (you will likely also be preregistering your study on OSF). Then you should write beautifully annotated code to clean and analyze your data (e.g., use R-Markdown) and then place that on GitHub. There is nothing more satisfying in science (or life) than a well-organized study. Your future self will thank your current self, and everyone in the lab will thank you too.
+
+
+
+<h3>Old Projects</h3>
+ 
+If a student or post-doc drives a project and/or collects a project dataset but does not completely analyze it, write it up, or is actively working on it within a reasonable time frame (which varies for each project) after the end of data collection, Bridget may discuss with that student or post-doc handing the project off to someone who can complete it to expedite publication. If a student or post-doc no longer wishes to work on a project at any time and/or no longer wants to be an author, Bridget will re-assign the project to another individual. This policy is here to prevent data (especially expensive data, e.g., fMRI) from remaining unpublished. Remember the lab philosophy is to “do good science that makes a difference”. We can’t make a difference if research is not being disseminated.
+
+----------
