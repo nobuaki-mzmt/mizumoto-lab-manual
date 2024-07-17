@@ -2,39 +2,66 @@
 
 ----------
 
-## Current funding in the lab
-Funding for the lab currently comes from four sources:
+## Fellowship and Grant opporunities
 
-1. Bridget’s start-up package from UCLA
-2. Bridget’s NIMH R00
-3. Bridget's Faculty Career Development Award
-4. Bridget's NARSAD grant (transferred from Columbia)
+Here is a list of fellowships/grants that lab members may apply to. You can always talk to me about help developing a grant proposal that would fund your research in the lab! 
 
-Hopefully more money is on its way! The lab manager/s will be responsible for the day-to-day purchasing of items for the lab, however, larger items will be reviewed and approved by Bridget. It might seem like there is a lot of money in the grants (e.g., more than any one of us might have in our bank account at a given time), but after it has paid for everyone’s salaries, all of the participants, scanning etc., there is not a lot left over and it has to stretch for many years. Moreover, it is not clear from where and when the next pot of money will arrive. For this reason, try to engage in the practice of frugality in the lab. Recycle paper, be careful with ordering (e.g., only order what you will likely use before an expiry date), etc. If you see us being wasteful and can think of a way to change that, please let us know.
- 
-At some point, you will likely be asked to provide a figure or two for a grant Bridget is writing, and/or provide feedback on the grant. At the end of every funding cycle, progress reports for grants are due.
- 
-Relatedly, you should feel free to read grants Bridget has submitted, whether they are ultimately funded or not. Aside from being a good opportunity to learn how grants are written, this will also allow you to see her vision for the lab in the years ahead. Feel free to ask Bridget to see any of her grants.
+1. Fellowship for students
 
-## Funding/Fellowship opporunities for students
+* [USDA NIFA Predoctoral Fellowship](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development)
+  + Available to US citizen.
+* [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
+  + Available to US citizen graduate students in first or second year of study, without a Masters. Deadline is typically early October. Provides 3 years of funding with an annual stipend. 
 
-Here is a list of fellowships that lab members recommend applying to:
+2. Fellowship opporunities for postdocs
 
-* [NSF GRFP](https://www.nsfgrfp.org/): apply in 1st or 2nd year of graduate school, deadline is typically early October. Provides 3 years of funding with an annual stipend ~$37k. 
-* [UCLA Fellowships](https://grad.ucla.edu/asis/stusup/gradsupport.pdf): funding time frame and amount varies, eligibility criteria varies; consult the link for specifics on each fellowship. Fellowships graduate students have won in the past (so that you can reach out to that person for example materials) include:
-  + Graduate Division Privately Endowed Fellowships: Faculty Women's Club Scholarship (Fran; $3k).
-  + Graduate Summer Research Mentorship Program (GSRM; Fran & Naomi; $6k for summer)
-  + Graduate Research Mentorship Program (GRM; Fran & Naomi; $20k + tuition for academic year)
-* [NIH F31 NRSA](https://www.nia.nih.gov/research/training/f31-individual-fellowships-phd-students): apply in 3rd or 4th year, 3 different deadlines (April 8, August 8, December 8). Students typically propose 2-3 years of funding, yearly stipend is ~$26k.  
+* [NSF Postdoctoral Research Fellowships](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb)
+  + Available to US citizen.
+* [USDA NIFA Postdoctoral Fellowship](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development)
+  + Available to US citizen.
+* [HFSP fellowship]()
+  + 
 
+3. Grant opportunities
+* [ESA (Entomological Society of America)](https://www.entsoc.org/awards) offers many grants and awards.
+  + Additionally ESA sections have further awards/grants including travel grant to attend national conferences. Our relavant sections are [SysEB](https://entocert.org/membership/sections/syseb/awards) and [MUVE](https://entocert.org/membership/sections/muve/awards)
+* [William L. and Ruth D. Nutting Termite Research Grant](https://iussi.cyberbee.net/awards/)
+  + IUSSI - NAS has various small research grant for students studying social insects. I highly recommend applying for termtie one.
+* The Animal Behavior Society has [student research grant](https://www.animalbehaviorsociety.org/web/awards-srg.php) and [travel grant for conference](https://www.animalbehaviorsociety.org/web/awards-student.php)
+* [ATBC seed research grant](https://tropicalbiology.org/grants-awards/atbc-seed-research-grant/)
+  + research grant for students to study in the tropics.
+* [Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewis-and-clark-fund-exploration-and-field-research)
+  + For doctoral students to do fieldwork.
+* [American Museum of Natural History](https://www.amnh.org/research/richard-gilder-graduate-school/academics/fellowship-and-grant-opportunities/research-grants-and-graduate-student-exchange-fellowships)
+* [NationalGeographic](https://www.nationalgeographic.org/society/grants-and-investments/)
+  + You can be an explore.
 
-### Conferences
+## Conferences
 
 Conferences are a great way to practice presenting your work and meet new people in your area of interest! Below is a list of conferences that lab members frequently attend, how often the conference happens, the typical abstract deadline, and the typical month when the conference is held. 
 
-| Conference | Frequency | Approx. Abstract Deadline | Approx. Conference Month |
-|:----------:|:---------:|:-------------------------:|:------------------------:|
-| SRCD       | Biennial  | September                 | March                    |
-| ISDP       | Annual    | August                    | November                 |
-| SAS        | Annual    | November                  | March-April               |
-| Flux       | Annual    | March                     | September                | 
+1. US Conferences
+
+* Entomological Society of America (ESA)
+  + Annual in Fall
+  + Deadline is ~ May
+
+2. International Conferences
+
+* International Congress of Entomology (ICE)
+  + Every 4 years (2024,2028,2032,...) in Summer
+  + Deadline is early
+
+* IUSSI
+  + Every 4 years (2026,2030,2034,...) in Summer
+  + Deadline is early
+
+* The Animal Behavior Society
+  + Annual in Summer
+  
+  
+## Information gathering
+
+* [EvolDir](https://evol.mcmaster.ca/evoldir.html): emailing list
+* [ecoevojobs](https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit?gid=1864294017#gid=1864294017): information about faculty jobs
+

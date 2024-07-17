@@ -1,15 +1,102 @@
 # Technologies
 
-## Footnotes
+## Computer setting
 
-Footnotes are put inside the square brackets after a caret `^[]`. Like this one ^[This is a footnote.]. 
+## Box
 
-## Citations
+## GitHub
 
-Reference items in your bibliography file(s) using `@key`.
+## Outlook Calendar
 
-For example, we are using the **bookdown** package [@R-bookdown] (check out the last code chunk in index.Rmd to see how this citation key was added) in this sample book, which was built on top of R Markdown and **knitr** [@xie2015] (this citation was added manually in an external file book.bib). 
-Note that the `.bib` files need to be listed in the index.Rmd with the YAML `bibliography` key.
+## Email
+
+----------
+
+## R
+Go to [R Project](http://www.r-project.org)
+
+----------
+
+## RStudio
+
+To install RStudio:
+
+ - Go to [RStudio](http://www.rstudio.com) and click on the "Download RStudio" button
+ - Click on "Download RStudio Desktop"
+ - Click on the version recommended for your system, or the latest Mac version, save the .dmg file on your computer, double-click it to open, and then drag and drop it to your applications folder
+
+----------
+### Python
+
+To install Python:
+
+- Download the [Anaconda Distribution](https://www.anaconda.com/distribution/)
+- Be sure that you download the Python 3.7 version. (Note, this can take upwards of 1-2 hours depending on your internet connection)
+- Helpful instructions for these checks can be found on the Anaconda User Guide website: [“Getting Started”](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
+- Any issues are most likely due to incorrect installation, which is addressed in the [FAQ page](https://docs.anaconda.com/anaconda/user-guide/faq/)
+ 
+
+----------
+## Video analysis
+
+### Tracking software
+
+- [UMATracker](https://ymnk13.github.io/UMATracker/)
+- [SLEAP](https://sleap.ai/)
+
+- [ffmpeg](https://www.ffmpeg.org/)
+
+<!--
+Raspberry pi
+Setup for timelasp imaging:
+
+raspberry pi 4 ModelB 4GB RAM, camera module v2.1
+
+setup of raspberry pi (download image file and use balenaEtcher)  参考: https://raspida.com/install-rasbian-balenaetcher
+
+install RPi-Cam-Web-Interface 参考: https://elinux.org/RPi-Cam-Web-Interface; https://denor.jp/raspberry-pi%E3%81%A7%E6%98%A0%E5%83%8F%E3%82%92%E8%A6%8B%E3%81%AA%E3%81%8C%E3%82%89%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%83%97%E3%82%B9%E6%92%AE%E5%BD%B1
+
+Interfaceの画面の解像度はvideoの設定が使われるけど、写真撮るときの解像度は別に設定できる。なので、写真がメインなら、1FPSにしてビデオの解像度を写真と合わせると便利
 
 
-The RStudio Visual Markdown Editor can also make it easier to insert citations: <https://rstudio.github.io/visual-markdown-editing/#/citations>
+OpenCV install:
+
+-Install OpenCV (https://github.com/opencv/opencv/releases)
+
+  (5M: 4.3.0 6/24/2020)
+
+-Copy a directory "opencv" to "C:"
+
+  Add  the following to Path
+
+C:\opencv\build\bin
+
+C:\opencv\build\x64\vc15\bin
+
+-Create new environmental variable
+
+  name: OPENCV_DIR
+
+  variable: C:\opencv\build
+
+
+Visual StudioでのOpenCV使用:
+
+Setting for each project
+
+
+-->
+
+----------
+## VPN
+
+
+----------
+## Writing information
+
+- Our paper will appear in [these journals](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090).
+- Rating review process of each journal: [SciRev](https://scirev.org/)
+
+
+
+

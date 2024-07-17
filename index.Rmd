@@ -35,18 +35,13 @@ Also, one of our missions is to provide a comprehensive understanding of termite
 
 ## Notes
 Our lab manual is designed to be always under construction. Please input your feedback. I am thrived to create a better environments for all of the lab members, which should vary dynamically according to time.  
-I you are new to the lab, please have read and understand these lab policies (section 1-4), and then submit the [form]() to NM.
-
+  
+I you are new to the lab, please have read and understand these lab policies (section 1-4), and then submit the [form]() to NM.  
+  
 This lab manual was inspired by several others, and borrows heavily from them (e.g., 
-[bablab](https://github.com/bablab/lab_manual), 
+[bablab](https://github.com/bablab/lab_manual), [marekborowiec-lab](https://github.com/marekborowiec/lab-wiki.wiki.git), 
 and 
-[this one](https://github.com/memobc/memolab-manual) from the Ritchey Lab were the primary sources 
-and 
-the main template I used. 
-A little of [this one](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf) too).
-
-A lot of time was put into the creation of this document. Thinking about what we want our lab to be, what are we going to be known for, and how can we make this lab work for everyone. We really respect the principles and ideas we are aspiring to here, and for that reason, we ask that all new lab members read the manual in full.
- 
+[Ritchey-lab](https://github.com/memobc/memolab-manual).  
+    
 *This lab manual is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you want to make your own manual for a lab, or any other purpose, please feel free to take any ideas and inspiration for this one (and cite us), as well as from the others we have used when making this (and cite them).*
 
-----------

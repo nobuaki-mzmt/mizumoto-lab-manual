@@ -1,4 +1,4 @@
-# Expectations and Responsibilities
+# Expectations
 
 ----------
 
@@ -19,58 +19,47 @@ _What trainees expect of PI (NM)_
 * I will be available to guide you and provide advice, including (but not limited to) research progress, papers, presentations, proposals, scientific problems, and personnel issues.
 * I will give you feedback on a timely basis, both via in person or email (generally within 48 hours on a weekday). 
 * I will Approve all abstracts and manuscripts that comes from the lab.
-* I will support your career development (e.g., introducing you to other researchers in the field, writing letters of recommendation, nominating you for awards). See ___XXX____. I will let you know if I cannot provide a strong letter.
+* I will support your career development (e.g., introducing you to other researchers in the field, writing letters of recommendation, nominating you for awards).
 * I care emotional and physical well-being of lab members. I will help you find the physical and mental space to do your work.
 * I will keep improving my own communication skills to achieve these all.
 
 _What PI (NM) expects of you_
 
 * I expect you to communicate well, which includes informing me about any issues affecting your progress and actively seeking my feedback and advice. I am here to help you, so please use me effectively. I will be checking in on you, but if you don't communicate your needs, I will not be able to help you. Even if your problem is out of my expertise, I may not somebody who can help it.
-* I value daily communication and expect the physical presence in the lab, office, and meeting (see ___XXX___). Flexibility is important for productivity, so you don't need to ask every time me for taking a day off, working unusual time, and working from home. But I expect that you let me know if you will not be around for a while (e.g., a week). 
-* If I train you, pay for, and provide feedback on your work, I generally expect authorship credit on resulting publications and presentations. While I am open to independent side projects by trainees, it is essential that you communicate these explicitly so we can set clear expectations regarding time and credit. See ___XXX___ and do not hesitate to talk to me.
+* I value daily communication and expect the physical presence in the lab, office, and meeting (see 4.2. ). Flexibility is important for productivity, so you don't need to ask every time me for taking a day off, working unusual time, and working from home. But I expect that you let me know if you will not be around for a while (e.g., a week). 
+* If I train you, pay for, and provide feedback on your work, I generally expect authorship credit on resulting publications and presentations. While I am open to independent side projects by trainees, it is essential that you communicate these explicitly so we can set clear expectations regarding time and credit. See 3.2 and do not hesitate to talk to me.
 * I expect you to bring good morals and positive attitude. Respect others with different backgrounds and perspectives.
 
 ----------
 
-## Graduate students
-The department expects you to
-* Develop your plan of study (course list over time) in your first semester
-* Before the end of your second semester
+## Graduate School
+
+* Take the Assessment Pre-test. Message Dr. Hardy nbh0006@auburn.edu, and provide your name and Auburn ID number. He will reply with an invitation to join an Assessment course. This exam is not a reported grade, but used to evaluate knowledge gain and our teaching assessment goals.
+* First semester
+  + Develop your plan of study (course list over time)
+* Before the end of second semester
   + Form your graduate Advisory Committee 
   + Present a proposal seminar to your committee (MS) or the department (PhD)
   + Conduct your literature review and draft a proposal document
 * Annual Responsibilities
   + Submit an annual evaluation document and review this evaluation every year. Annual evaluations are due by the end of Dec each year and must use the pre-determined form. Evaluations will be conducted sometime in January or February.
   + Update graduate committee on the progress of their project.
+* Outgoing students (before you leave AU)
+  + Plan for your pay to end effective the day of graduation
+  + Discuss with NM the plans for publications of each publishable unit from your thesis or dissertation if not already published. Make sure how we can access all research data files (inc. code).
+  + Seek employment in careers that employ the skills they gained while in the program.
+  + Take the Assessment Post-test. Before the end of the semester of your graduation, message Dr. Hardy nbh0006@auburn.edu, providing your name and Auburn ID number. He will reply with an invitation to join an Assessment course. Using your Auburn ID, it will compare your pre and post-test grades. This score is not reported individually on your transcript. It is used to evaluate knowledge gain and our teaching assessment goals.
 
-
+----------
 
 ## Skills
-See  
-We expect you to develop these skills.
+We expect you to develop these skills. See section 5.
 * Using R for statistical analysis and data analysis. You may also use it for modeling, and simple simulations.
 * Using Python for image and video analysis.
 * Being able to use command-line interfaces, such as Command prompt and PowerShell
 * Building presentation and public communication skills at a regional or national scientific meeting or through opportunities to do outreach, guest lectures, or participate in local poster or oral paper competitions.
 * Maintaining an organized lab notebook with appropriate back-ups of handwritten or electronic documents. Along with this, students should be able to produce data, graphs or documents upon request.
 * Effectively manage your time and meet deadlines.
-
-
-
-Outgoing students only (complete these before you leave AU)
-
-· All research documents (data and graph files) will be provided to Dr. Held or Amanda before graduation.
-
-· Plan for your pay to end effective the day of graduation
-
-· Provide a formatted manuscript(s) to Dr. Held for each publishable unit from your thesis or dissertation if not already published.
-
-· Upon graduation, students are expected to actively seek employment in careers that employ the skills they gained while in the program.
-
-· Take the Assessment Post-test. Before the end of the semester of your graduation, message Dr. Hardy nbh0006@auburn.edu, providing your name and Auburn ID number. He will reply with an invitation to join an Assessment course.
-Using your Auburn ID, it will compare your pre and post-test grades. This score is not reported individually on your transcript. It is used to evaluate knowledge gain and our teaching assessment goals.
-
-*Soft skills, annual and weekly expectations are assessed as part of the annual evaluation rubric. Evaluations are the basis for recommendation letters for jobs and awards. If deficiencies are identified, a development plan for the student will be set for the next year.
 
 
 
