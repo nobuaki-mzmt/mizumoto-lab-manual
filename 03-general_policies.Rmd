@@ -4,11 +4,9 @@
 
 ## Pay rates
   
--------
-
 1. **Graduate students**
 
-All graduate students in the Department of Entomology & Plant Pathology are paid as RA (Research assistantship). GRA represent an appointment of 0.33 FTEs. No graduate student can work more than 0.5 FTE and they typically are not less than 0.25 FTE. This means a student is responsible for working at least 13.2 hours weekly on research outside of their thesis/dissertation on work that contributes directly to the performance of research in the lab. This includes assisting your lab mates with their work. These hours are not monitored currently because we have a culture of collegiality where students willingly assist one another as needed with field or lab projects. Only when a student is clearly not contributing to the work of the lab will these hours be monitored or enforced. Students are responsible for paying all the various university and health fees.   
+All graduate students in our department are paid as RA (Research assistantship). GRA represents an appointment of 0.33 FTEs. No graduate student can work more than 0.5 FTE, typically not less than 0.25 FTE. This means a student is responsible for working at least 13.2 hours weekly on research outside of their thesis/dissertation on work that contributes directly to research performance in the lab. In most cases, this will overlap with your thesis project, but this includes assisting your lab mates with their work. These hours are not monitored unless a student clearly does not contribute to the lab's work. Students are responsible for paying all the various university and health fees.   
 
 Base pay rates for students on GRA fellowships are set departmentally.
 
@@ -20,97 +18,84 @@ GTA fellowships of $1000 per semester are available occasionally through the dep
 **Productivity incentives**  
 Ultimately, the job of researchers is writing. Therefore, graduate students are encouraged to write their work as they progress through their degree program. So we have productivity incentives as follows:
 
-* Submit a paper to a refereed journal (the first submission for each paper)
-  + first (co-fisrt) or corresponding author: $500 per year added to stipend 
-  + co-authors: $250 one-time award in student account
+* Submit a paper to a refereed journal (the first submission for each paper) co-authored with NM
+  + first (co-first) or corresponding author: $1,200 per year added to stipend 
+  + co-authors: $200 one-time award in student account
   
-* Accepted at exceptional journals (incentive = 1 in the [list](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090)).
-  + $500 one-time award in student account
+* Accepted at exceptional journals (incentive = 1 in the [list](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090)) co-authored with NM
+  + first (co-first) or corresponding author: $500 one-time award in the student account
 
-Note that the manuscript co-authored with Dr. Mizumoto is eligible for incentives.
+* Accepted at refereed journals, not co-authored with NM
+  + first (co-first) or corresponding author: $100 one-time award in the student account
 
 * Grant
-  + I am still figureing out what opporunity exists for students. Will be added to here.
+  + Although the students' main role is to be trained to do good research, write a good paper, and present the results, I encourage having an opportunity to do grant writing for skill development. See [Fellowship and Grant opportunities] for information, and feel free to add.
+  + accepted grant: 10% of grant income per year added to stipend
 
-<!--
+* If you achieve something noteworthy, please let me know. I may add that to this policy.
+
+<!-- This is burrow from David Lab rule
 These following incentives for developing skills in grant writing. All proposals must have D.Held as a co-author to be eligible for incentives. An application package typically includes formatted (according to the RFA/RFP) sections, budget narrative and budget. The Narrative also outlined in the RFP is the single largest component of each package. We must have the package complete 2 wk in advance of the deadline published in the RFA. Intention to submit should be done no less than 30 d before the grant deadline.
--->
-If you achieve something noteworthy, please let me know. I may add that to this policy.
 
-<!-- Most student pay is tied to grant funded projects. The pay rates written into those projects are finite and not subject to within project increases. Any disparity between grant funded assistantships and the departmental minimums will be addressed if soft funds are available. Some students may also be partially supported with a Departmental GRA fellowship. These fellowships contribute a maximum of $16,000 annually to the base pay rates for GRA fellowships listed below. Base pay rates for students on GRA fellowships are set departmentally through a vote of the faculty. Students are responsible for paying all the various university and health fees. The following annual pay rates (approved by the dept faculty in 2017) vary by degree program.
+ Most student pay is tied to grant funded projects. The pay rates written into those projects are finite and not subject to within project increases. Any disparity between grant funded assistantships and the departmental minimums will be addressed if soft funds are available. Some students may also be partially supported with a Departmental GRA fellowship. These fellowships contribute a maximum of $16,000 annually to the base pay rates for GRA fellowships listed below. Base pay rates for students on GRA fellowships are set departmentally through a vote of the faculty. Students are responsible for paying all the various university and health fees. The following annual pay rates (approved by the dept faculty in 2017) vary by degree program.
 
 · State or commodity grants:
-
-o Write narrative and manage funded project, budget, and annual reports
-
+Write narrative and manage funded project, budget, and annual reports
 § $500 per year added to stipend when submitted and accepted by sponsor.
-
 § Another $500 per year added to stipend when project is funded or funds disbursed.
-
 § Must see project through to completion with required report or funds rescinded.
-
 § Max of 3 per year.
-
 § Examples; IR-4, Commodity board grants, Chemical company grants/awards, contracts, Alabama Specialty Crop Block grants
-
 · Federal grant:
-
 o Co-author a proposal with D. Held, develop and manage the budget, write annual reports
-
 o $1500 per year added to stipend when a proposal is submitted by Research office and accepted by sponsor.
-
 o Salary up to $30,000 per year in budget if accepted, and 2% per year pay rate increase in budget.
-
 o If IDC is 42% then another $1500 annually from IDC each year the grant funded. If NSF, then $2000 annually from IDC to stipend.
-
 o Must completed annual reports or funds rescinded.
-
 · Incentive for authoring a AAES proposal. Students that draft and assemble an AAES grant proposal package will receive a $500 payment in their student account upon acceptance of the submission. The grant must have a budget for the Held lab and must have D Held as lead or co-PI. The AAES rules related to PI eligibility apply but this incentive has no other limits on how often it can be applied during a student’s time in the lab.
 -->
 
 2. **Undergraduates**
-Undergraduate students pay rates usually begin at $10 per hour.
+Undergraduate student pay rates usually begin at $10 per hour.
 
 ----------
 
 ## Lab meetings and seminars
 
 1. **Daily journal club**
-  + Mizumoto lab has a daily journal club (TBD, 11:30am-12:00pm?). No preparation will be required other than downloading pdf or printing it. We will read one paper together within 30 min. If you find a paper you want to read, just add it to the list (___link___).
+  + Mizumoto lab has a daily journal club (TBD, 11:30am-12:00pm at NM's office). No preparation will be required other than downloading a pdf or printing it. We will read one paper together within 30 min. If you find a paper you want to read, just add it to the [list](https://docs.google.com/spreadsheets/d/1oH9S6sksLE8oym9vj8eIPnwtD1yuOtqDAbN96wR89H0/edit?gid=0#gid=0).
   
 2. **Department seminar**
-  + Department of Entomology & Plant Pathology has a department seminar during semesters, and you are expected to attend it. Ask a question even if it is very different from our field (mostly they are!). Thinking about what to ask for a question is a most effective way to attend seminars.
+  + The Department of Entomology & Plant Pathology has a department seminar during semesters; you are expected to attend it. Ask a question even if it differs greatly from our field (mostly, they are!). Thinking about what to ask for a question is the most effective way to attend seminars.
 
 3. **Lab meeting**
-  + I am thinking of a biweekly lab meeting to present the progress. Discuss this later.
+  + I am thinking of a biweekly lab meeting to present the progress. To discuss this later.
 
 4. **Shared Lab Meeting**
-  + We have shared lab meeting between Clint Lab (Entomology), Mizumoto Lab (Entomology), and Smith Lab (Biology) on collective behavior in social insects. This is a monthly meeting on the first week of Friday.
+  + We have shared lab meetings between Clint Lab (Entomology), Mizumoto Lab (Entomology), and Smith Lab (Biology) on collective behavior in social insects. This is a monthly meeting on the first week of Friday.
 
 5. **Annual evaluation meeting**
-  + All trainees will have one-to-one annual evaluation with PI (NM), where PI provides an evaluation with a trainee, and trainee provides an evaluation with PI. I will provide a one-page sheet for the evaluation.
+  + All trainees will have a one-to-one annual evaluation with PI (NM), where PI provides an evaluation with a trainee, and the trainee provides an evaluation with PI. I will provide a one-page sheet for the evaluation.
 
 ----------
  
 ## PI Availability
 
-NM is usually writing in the morning (8:30-10:30 am) if there are no other schedule. Except for this time, NM is available for any kinds of meeting with lab members until 5:30pm. All other meetings are in my outlook calender (nzm0095@auburn.edu), and thus, you can freely add meeting schedules with me on the vacant spots. You do not need to ask me to add it if you schedule it by 6am of the day.  
+NM usually writes in the morning (8:30-10:30 am) if there is no other schedule. Except for this time, NM is available for any kind of meeting with lab members until 5:30 pm. All other schedules are in my Outlook calendar (nzm0095@auburn.edu), and thus, you can freely add meeting schedules with me on the vacant spots. You do not need to ask me to add it if you schedule it by 6 am of the day.  
  
-If lab members send me an email, I try to reply it on the same day or next day if it is within usual working day. If you do not receive response within 48 hours, feel free to send me a reminder.
+If lab members send me an email, I try to reply on the same or the next day if it is within a usual working day. If you do not receive a response within 48 hours, please send me a reminder.
  
-Whenever you request feedback for your proposal or manuscript, please put a deadline. It will help both of us. And feel free to bug me close to the deadlines (even on the day off) -- I won't be offended by reminders. Instead, I will appreciate them!
+Please set a deadline whenever you request feedback for your proposal or manuscript. It will help both of us. And feel free to bug me close to the deadlines (even on the day off) -- I won't be offended by reminders. Instead, I will appreciate them!
  
-For any tasks with a hard deadline, I always use a virtual deadline with one week before. This is for safety. I may get sick or have accident. Please remember this and behave in the same way. But in emergency, do not hesitate to ask me to do something in a last second.
+I always use a virtual deadline one week before for any tasks with a hard deadline. This is for safety. I may get sick or have an accident. Please remember this and behave in the same way. But in an emergency, do not hesitate to ask me to do something in the last second.
  
 ----------
 
 ## Presentations
 
-Learning to present your research is important. Very few people will read your papers carefully (sad, but true) but you can reach a lot of people at conference talks and posters. Also, if you plan on staying in academia, getting a post-doc position and getting a faculty position both significantly depend on your ability to present your data. Even if you want to leave academia, presentations are likely to be an important part of your job. Additionally, every time you present your work, you are representing not just yourself but the entire lab.
+Learning to present your research is important. Very few people will read your papers carefully (sad but true) but you can reach many people at conference talks and posters. Also, if you plan on staying in academia, getting a post-doc position and a faculty position will depend significantly on your ability to present your data. Even if you want to leave academia, presentations will likely be an important part of your job. Additionally, every time you present your work, you represent yourself and the entire lab.
 
-It is therefore highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs (within or outside of Auburn), at conferences, or to the general public. If you are going to give a presentation (a poster or a talk), consider to have a practice presentation to the lab as early as you can. Practice talks will help you feel comfortable with your presentation and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
- 
-Templates for posters will be available, and you can use those as much or as little as you’d like. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. Other than that, go with your own style.
+It is therefore highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs (within or outside of Auburn), at conferences, or to the general public. If you are going to give a presentation (a poster or a talk), consider having a practice presentation to the lab as early as you can. Practice talks will help you feel comfortable with your presentation and allow you to get feedback from the lab and implement those changes well before your real presentation.
  
 NM is also happy to share slides from some of his talks if you would like to use a similar style. You’ll get a lot of feedback on your talks in any case, but other people’s slides might be helpful to you as you are setting up your talk. As with posters, feel free to go with your own style as long as it is polished and clear.
 
@@ -118,6 +103,6 @@ NM is also happy to share slides from some of his talks if you would like to use
 <!--
 ## Recommendation Letters
  
-Letters of recommendation are extremely important for getting new positions and grants. You can count on NM to write you a letter if you have been in the lab at least one year (it’s hard to really know someone if they have only been around for a few months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab. If you need a letter, notify NM as soon as possible with the deadline and send your CV and any relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. 
+Letters of recommendation are extremely important for getting new positions and grants. You can count on NM to write you a letter if you have been in the lab for at least one year (it’s hard to really know someone if they have only been around for a few months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab. If you need a letter, notify NM as soon as possible with the deadline and send your CV and any relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. 
 -->
 
