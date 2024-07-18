@@ -2,141 +2,147 @@
 
 Under construction.
 
+----------
+
 ## Lab
 
 ### Lab waste
 
-* Link to the list of Non-Haz Chemicals. These can be disposed of in the lab or work area.
- + https://cws.auburn.edu/shared/content/files/1308/nonhazlist.pdf
-* Ethanol
- + Ethanol is counted as hazardous waste. They will be accumulated at SAA.
- + When a container in your SAA is full and ready for pick-up, fill out a CHEMATIX waste card and affix it to the chemical in your SAA. and fill out and submit a CHEMATIX pick-up worksheet. [link](https://auburn.bioraft.com/training/Auburn/ManagingWaste_2020_Oct_14/scormcontent/assets/W3GMqscRVD1_Xqea_S9zliRC6HevCnupA-how-20-to-20-submit-20-waste-20-cards-20-in-20-chematix.pdf) [Hazardous Waste Container Label](https://cws.auburn.edu/shared/files?id=227&filename=SMALL%20HAZARDOUS%20WASTE%20CONTAINER%20LABEL%20(avery%205163).pdf)
-* Used Oil
-* Used Compressed gas cylinders
+* Chemicals
+  + [The list of Non-Haz Chemicals](https://cws.auburn.edu/shared/content/files/1308/nonhazlist.pdf). These can be disposed of in the lab or work area.
+  + Ethanol is counted as hazardous waste. They will be accumulated at SAA.
+  + When a container in your SAA is full, [fill out a CHEMATIX waste card and affix it to the chemical in  SAA, and then submit a CHEMATIX pick-up worksheet.](https://auburn.bioraft.com/training/Auburn/ManagingWaste_2020_Oct_14/scormcontent/assets/W3GMqscRVD1_Xqea_S9zliRC6HevCnupA-how-20-to-20-submit-20-waste-20-cards-20-in-20-chematix.pdf) [Hazardous Waste Container Label](https://cws.auburn.edu/shared/files?id=227&filename=SMALL%20HAZARDOUS%20WASTE%20CONTAINER%20LABEL%20(avery%205163).pdf)
+  + Used Oil also goes SAA
 
 * Autoclave
- + Only use blue or clear autoclave bags with no markings.
+  + We sometimes use autoclave to kill termites.
+  + Only use blue or clear autoclave bags with no markings.
 
-Universal waste
-RMS 334-844-4870
-* Lamps should be closed in containers such as boxes or plastic bags and labeled. See [here](https://cws.auburn.edu/shared/files?id=227&filename=EM-UsedHGLampGuidance.pdf) if broken. Call RMS immediately after changing out lamps for pick-up.
-![<!--- Lamps --->](images/Lab-waste/lamp.jpg){width=50% height=50%}
-* Batteries are accumulated in a container labeled "used batteries" and put the start date. Call RMS for pick-up of used batteries. 
-![<!--- Battery --->](images/Lab-waste/battery.png){width=50% height=50%}
-* Mercury-Containing Equipment (MCE) should be closed in a spill-proof container labeled "Used MCE". Call RMS for pick-up. 
+* Universal waste
+  + Lamps should be closed in containers such as boxes or plastic bags and labeled. See [here](https://cws.auburn.edu/shared/files?id=227&filename=EM-UsedHGLampGuidance.pdf) if broken. Call RMS (334-844-4870) immediately after changing out lamps for pick-up.
+  + Batteries are accumulated in a container labeled "used batteries" and put the start date. Call RMS (334-844-4870) for pick-up. 
+  + Mercury-Containing Equipment (MCE) should be closed in a spill-proof container labeled "Used MCE". Call RMS for pick-up. 
 
-* Used electronics: call the [Waste Reduction and Recycling Department](http://auburn.edu/administration/facilities/organization/operations/campus-services/recycling/)
+![](images/Lab-waste/lamp.jpg){width=50% height=50%} ![](images/Lab-waste/battery.png){width=50% height=50%}
+
+* Electronics: call the [Waste Reduction and Recycling Department](http://auburn.edu/administration/facilities/organization/operations/campus-services/recycling/)
 
 * Computer-related items: call [Surplus](https://ba.auburn.edu/)
 
 * Glass
- + Broken glass should be stored in clearly marked cardboard boxes, plastic jugs, etc.
- + Lab personnel are responsible for taking broken glass to the trash.
-
- 
-
-
-<!-- 
-----------
-## Computer setting
-
-
-## Box
-
-## GitHub
-
-## Outlook Calendar
-
-## Email
+  + Broken glass should be stored in clearly marked cardboard boxes, plastic jugs, etc.
+  + Lab personnel are responsible for taking broken glass to the trash.
 
 ----------
 
-## R
+## Hardware
+
+
+### Lab PCs
+
+----------
+
+### Raspberry Pi
+
+Setup for timelasp imaging:
+
+raspberry pi 4 ModelB 4GB RAM, camera module v2.1
+
+setup of raspberry pi (download image file and use balenaEtcher) [ref](https://raspida.com/install-rasbian-balenaetcher)  
+  
+install RPi-Cam-Web-Interface [ref1](https://elinux.org/RPi-Cam-Web-Interface); [ref2](https://denor.jp/raspberry-pi%E3%81%A7%E6%98%A0%E5%83%8F%E3%82%92%E8%A6%8B%E3%81%AA%E3%81%8C%E3%82%89%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%83%97%E3%82%B9%E6%92%AE%E5%BD%B1)
+  
+The Interface's screen resolution is determined by the video settings, but the resolution when taking photos can be set separately. Therefore, when taking photos, it is conveninent to set the video to 1 FPS and match its resolution to that of the photos.
+
+----------
+
+## Data managements
+
+### Naming files
+
+Here are some rules when you name files
+
+* Use "YYMMDD" format when indicating date. This is useful when sorting.
+  + 👍 : 240718_draft_termite_tunnel.docx
+  + 👎 : 071824_draft_termite_tunnel.docx
+* Never use " " to separate content. Use "_" instead.
+  + 👍 : draft_termite_tunnel.docx
+  + 👎 : draft termite tunnel.docx
+
+----------
+
+### Box
+
+All the lab data, codes, and drafts are stored on Box. Install [Box Drive](https://auburn.app.box.com/) and make sure logging into your Box account and save files locally but within Box Drive (not elsewhere). Thus, your project files should look like:
+
+* Box
+  + Projects
+    + mic_ner_tandem_run
+      + draft
+      + analysis
+
+----------
+
+### HDDs
+
+----------
+
+## Software
+
+### Git and Github
+
+Git is version control system, used for tracking code changes. Github is a web service using Git. These are very strong tools to work on coding. This Lab Manual and Lab Website are created and managed by Github.  
+
+1. Install [Git](https://git-scm.com/downloads) on your PC.
+2. Create a GitHub account [here](https://github.com/)
+3. Install [GitHub Desktop](https://desktop.github.com/download/)
+
+----------
+
+### R and RStudio
+
 Go to [R Project](http://www.r-project.org)
+Go to [RStudio](http://www.rstudio.com)
 
 ----------
 
-## RStudio
-
-To install RStudio:
-
- - Go to [RStudio](http://www.rstudio.com) and click on the "Download RStudio" button
- - Click on "Download RStudio Desktop"
- - Click on the version recommended for your system, or the latest Mac version, save the .dmg file on your computer, double-click it to open, and then drag and drop it to your applications folder
-
-----------
 ### Python
 
 To install Python:
 
 - Download the [Anaconda Distribution](https://www.anaconda.com/distribution/)
-- Be sure that you download the Python 3.7 version. (Note, this can take upwards of 1-2 hours depending on your internet connection)
-- Helpful instructions for these checks can be found on the Anaconda User Guide website: [“Getting Started”](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
-- Any issues are most likely due to incorrect installation, which is addressed in the [FAQ page](https://docs.anaconda.com/anaconda/user-guide/faq/)
- 
 
 ----------
-## Video analysis
+
+### Video edit
+
+- [ffmpeg](https://www.ffmpeg.org/)
 
 ### Tracking software
 
 - [UMATracker](https://ymnk13.github.io/UMATracker/)
 - [SLEAP](https://sleap.ai/)
 
-- [ffmpeg](https://www.ffmpeg.org/)
+### OpenCV
 
-<!--
-Raspberry pi
-Setup for timelasp imaging:
+1. Install OpenCV (https://github.com/opencv/opencv/releases) (5M: 4.3.0 6/24/2020)
+2. Copy a directory "opencv" to "C:"
+3. Add  the following to Path   
+  - C:\opencv\build\bin
+  - C:\opencv\build\x64\vc15\bin
+4. Create new environmental variable
+  - name: OPENCV_DIR
+  - variable: C:\opencv\build
 
-raspberry pi 4 ModelB 4GB RAM, camera module v2.1
-
-setup of raspberry pi (download image file and use balenaEtcher)  参考: https://raspida.com/install-rasbian-balenaetcher
-
-install RPi-Cam-Web-Interface 参考: https://elinux.org/RPi-Cam-Web-Interface; https://denor.jp/raspberry-pi%E3%81%A7%E6%98%A0%E5%83%8F%E3%82%92%E8%A6%8B%E3%81%AA%E3%81%8C%E3%82%89%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%83%97%E3%82%B9%E6%92%AE%E5%BD%B1
-
-Interfaceの画面の解像度はvideoの設定が使われるけど、写真撮るときの解像度は別に設定できる。なので、写真がメインなら、1FPSにしてビデオの解像度を写真と合わせると便利
-
-
-OpenCV install:
-
--Install OpenCV (https://github.com/opencv/opencv/releases)
-
-  (5M: 4.3.0 6/24/2020)
-
--Copy a directory "opencv" to "C:"
-
-  Add  the following to Path
-
-C:\opencv\build\bin
-
-C:\opencv\build\x64\vc15\bin
-
--Create new environmental variable
-
-  name: OPENCV_DIR
-
-  variable: C:\opencv\build
-
-
-Visual StudioでのOpenCV使用:
-
-Setting for each project
-
-
--->
-
-----------
-## VPN
+### VPN
 
 
 ----------
-## Writing information
+## Writing
 
 - Our paper will appear in [these journals](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090).
 - Rating review process of each journal: [SciRev](https://scirev.org/)
 
--->
 
 
 

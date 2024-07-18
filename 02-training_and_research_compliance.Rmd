@@ -9,7 +9,7 @@ All lab members complete and keep track of the following training:
 * Responsible Conduct in Research Training
   + Please visit the [RCR website](https://cws.auburn.edu/OVPR/pm/compliance/rcr/home). Click on “Follow these steps to access the new course.”  Login to CITI and select Auburn University (you must do this for your training to be properly credited to you at Auburn).
   
-* Lab safety training (Auburn University) is available through [Bioraft](https://cws.auburn.edu/rms/pm/OnlineTraining).
+* Lab safety training (Auburn University) is available through [BioRaft](https://cws.auburn.edu/rms/pm/OnlineTraining).
 
 * Cybersecurity training
   + To access the training, log into AU Access and select the Employee Services tab. Next, click the icon. You will be directed to the training videos library that contains the required modules. To view the videos, select a module and click the icon. The videos may be viewed in any order. Typically, within 24 hours after you have completed the modules, you will receive an email confirmation from <noreply@auburn.edu> along with a certification of completion.
@@ -33,18 +33,22 @@ Authorship of papers and presentations is an important and sensitive topic in ac
 There is little consensus on the criteria for authorship on collaborative projects, most guidelines suggest authorship be given to those who made *significant intellectual contribution* to the study.
 So, what is the significant intellectual contribution? It could be contributions to the conception or design of the work and acquisition, analysis, or interpretation of the data. Thus, authorship is clear for those who designed the experiments, performed behavioral observations, analyzed the videos, and wrote the paper. However, there are many unclear situations; I will provide examples here.  
 We will keep updating these examples based on our experiences.  
-
-* I designed the research and performed the experiments to obtain data. I paid you as an assistant and instructed you to use tracking software to obtain trajectories for movement analysis. Then, I analyzed these data and wrote a paper.
-  + In this case, I believe that you will not be an author because just using tracking software to obtain trajectories does not involve much intellectual input. Thus, to include you as the author, I will ask for more intellectual involvement (e.g., doing more analysis beyond just using tracking software, watching videos to obtain insights, and co-writing a paper). At the beginning (ideally), we will discuss how to treat authorship.
   
-* We received a rare species (or samples) for behavioral observation from a collaborator. This sample is hard to collect but essential to answer some questions about the behavioral study, and we cannot obtain it without this collaborator's knowledge.
-  + This is the most challenging and controversial one. I believe this could be an intellectual contribution. This is because sampling insects in the field often requires intellectual work. We may not have a way to collect it due to the lack of intellectual ability. However, we should ask this collaborator if (s)he is happy to be involved as a co-author because some people regard providing materials as not being included in intellectual contributions. Furthermore, I think it is better to ask to provide more than samples, e.g., feedback on the research plan, basic life history information of the samples while collection, and editing the draft to improve it. This practice can be applied to many situations.  
-  
-* You worked on a side project that is outside of my expertise. You performed the research outside your working hours, and I have not contributed training or funding for that work. 
-  + I do not expect to be an author. However, I am still happy to give you feedback on the work (as an acknowledgment).
+1. *I designed the research and performed the experiments to obtain data. I paid you as an assistant and instructed you to use tracking software to obtain trajectories for movement analysis. Then, I analyzed these data and wrote a paper.*
 
-* Similar to above. You worked on a side project that relates to my expertise. You performed the research outside of your working hours, but you used the shared or common resources in the lab, which are from my funding.
-  + I do not claim the authorship as I think providing lab resources is not counted as authorship (we should know that somebody does). However, I may feel sad as this project is within my expertise, and I might want to contribute by offering some insights. Please communicate well. You may be able to think about my role as a contribution to enhance the process or even make this a lab project to work on during working hours. Obtaining such ability is actually important, especially when you start collaborations with various people in the future.
+* In this case, I believe that you will not be an author because just using tracking software to obtain trajectories does not involve much intellectual input. Thus, to include you as the author, I will ask for more intellectual involvement (e.g., doing more analysis beyond just using tracking software, watching videos to obtain insights, and co-writing a paper). At the beginning (ideally), we will discuss how to treat authorship.
+    
+2. *We received a rare species (or samples) for behavioral observation from a collaborator. This sample is hard to collect but essential to answer some questions about the behavioral study, and we cannot obtain it without this collaborator's knowledge.*
+
+* This is the most challenging and controversial one. I believe this could be an intellectual contribution. This is because sampling insects in the field often requires intellectual work. We may not have a way to collect it due to the lack of intellectual ability. However, we should ask this collaborator if (s)he is happy to be involved as a co-author because some people regard providing materials as not being included in intellectual contributions. Furthermore, I think it is better to ask to provide more than samples, e.g., feedback on the research plan, basic life history information of the samples while collection, and editing the draft to improve it. This practice can be applied to many situations.  
+  
+3. *You worked on a side project that is outside of my expertise. You performed the research outside your working hours, and I have not contributed training or funding for that work.*
+
+* I do not expect to be an author. However, I am still happy to give you feedback on the work (as an acknowledgment).
+
+4. *Similar to above. You worked on a side project that relates to my expertise. You performed the research outside of your working hours, but you used the shared or common resources in the lab, which are from my funding.*
+
+* I do not expect the authorship as I think providing lab resources is not counted as authorship (we should know that somebody does). However, I may feel sad as this project is within my expertise, and I might want to contribute by offering some insights. Please communicate well. You may be able to think about my role as a contribution to enhance the process or even make this a lab project to work on during working hours. Obtaining such ability is actually important, especially when you start collaborations with various people in the future.
   
 As for the main project led by Mizumoto lab, the trainees who are driving the project are expected to be the first author, and NM is expected to be the senior (i.e., last) author. Other trainees who help over the course of the project may also be authors, depending on their contributions. As it is sometimes hard to predict exactly where a project will end up (data collection, cleaning, and analysis in developmental labs can take a long time), the positioning of non-primary and non-senior authors will be decided when the paper is drafted. If a trainee takes on a project but subsequently hands it off to another person, they will most likely be handing over first authorship to that person too. We may use a co-first author when appropriate. All of these issues have to be discussed openly.
 
@@ -52,11 +56,11 @@ As for the main project led by Mizumoto lab, the trainees who are driving the pr
 
 ### Data management
 
-#### A story
+**A story**  
 I know the story of a silly doctoral student named Nobuaki Mizumoto at Kyoto University. In 2017, the last year of his PhD, he had several ongoing projects. Two projects require watching videos to record termite mating behavior and counting numbers. After many hours of watching with hard work, he finished obtaining the data. However, he put all the data of these two projects in a single HDD without backup. One summer day, he came to the lab early in the morning and realized that a weird clicking sound had come from his HDD. Yes, the HDD died. He was upset, and his heart was pierced with a pang of regret for the next three weeks. Fortunately, he could make it. He found a service called Seagate Data Recovery. He paid about $700 and sent his HDD from Japan to the US. They succeeded in salvaging the data. And he decided to put all the non-video data into Dropbox and make multiple backups for videos. You can see the acknowledgment of this [paper](https://doi.org/10.1101/2024.02.01.578198): _"We also appreciate Seagate Recovery Services (https://www.seagate.com/products/rescue-data-recovery/) for recovering our data after an unexpected loss and emphasizing the importance of backups."_  Fin.
-
-#### Data backup
-Long story short. *Make a backup for your data, codes, and drafts.*  
+  
+**Data backup**  
+Long story short. **Make a backup for your data, codes, and drafts.**
 In Mizumoto Lab, all the data, code, and drafts must be stored in Box Drive. Auburn University provides the [access](https://auburn.box.com). All these data for every single project should be stored in a single folder (also managed using GitHub), which has a minimum structure of  
 
 * root

@@ -89,3 +89,15 @@ essential-training
 lab
 lab-waste
 fellowship-and-grant-opportunities
+software
+git-and-github
+hardware
+lab-pcs
+raspberry-pi
+data-managements
+naming-files
+hdds
+r-and-rstudio
+video-edit
+opencv
+writing
