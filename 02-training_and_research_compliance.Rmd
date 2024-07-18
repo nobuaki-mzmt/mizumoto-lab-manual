@@ -28,8 +28,6 @@ Once completed, please save the completion records as PDF.
 
 ## Scientific Integrity
 
-----------
-
 ### Authorship
 Authorship on papers and presentations is important and sensitive topic in academia.
 There is little consensus on the criteria for authorship on collaborative projects, most guidelines suggest authorship be given to those who made *significant intellectual contribution* to the study.
