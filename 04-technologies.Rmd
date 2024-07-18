@@ -18,9 +18,21 @@ Under construction.
  + Only use blue or clear autoclave bags with no markings.
 
 Universal waste
+RMS 334-844-4870
 * Lamps should be closed in containers such as boxes or plastic bags and labeled. See [here](https://cws.auburn.edu/shared/files?id=227&filename=EM-UsedHGLampGuidance.pdf) if broken. Call RMS immediately after changing out lamps for pick-up.
-![<!--- Lamps --->](images/lab-waste/lamp.jpg){width=50% height=50%}
-* 
+![<!--- Lamps --->](images/Lab-waste/lamp.jpg){width=50% height=50%}
+* Batteries are accumulated in a container labeled "used batteries" and put the start date. Call RMS for pick-up of used batteries. 
+![<!--- Battery --->](images/Lab-waste/battery.png){width=50% height=50%}
+* Mercury-Containing Equipment (MCE) should be closed in a spill-proof container labeled "Used MCE". Call RMS for pick-up. 
+
+* Used electronics: call the [Waste Reduction and Recycling Department](http://auburn.edu/administration/facilities/organization/operations/campus-services/recycling/)
+
+* Computer-related items: call [Surplus](https://ba.auburn.edu/)
+
+* Glass
+ + Broken glass should be stored in clearly marked cardboard boxes, plastic jugs, etc.
+ + Lab personnel are responsible for taking broken glass to the trash.
+
  
 
 
