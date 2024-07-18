@@ -2,6 +2,28 @@
 
 Under construction.
 
+## Lab
+
+### Lab waste
+
+* Link to the list of Non-Haz Chemicals. These can be disposed of in the lab or work area.
+ + https://cws.auburn.edu/shared/content/files/1308/nonhazlist.pdf
+* Ethanol
+ + Ethanol is counted as hazardous waste. They will be accumulated at SAA.
+ + When a container in your SAA is full and ready for pick-up, fill out a CHEMATIX waste card and affix it to the chemical in your SAA. and fill out and submit a CHEMATIX pick-up worksheet. [link](https://auburn.bioraft.com/training/Auburn/ManagingWaste_2020_Oct_14/scormcontent/assets/W3GMqscRVD1_Xqea_S9zliRC6HevCnupA-how-20-to-20-submit-20-waste-20-cards-20-in-20-chematix.pdf) [Hazardous Waste Container Label](https://cws.auburn.edu/shared/files?id=227&filename=SMALL%20HAZARDOUS%20WASTE%20CONTAINER%20LABEL%20(avery%205163).pdf)
+* Used Oil
+* Used Compressed gas cylinders
+
+* Autoclave
+ + Only use blue or clear autoclave bags with no markings.
+
+Universal waste
+* Lamps should be closed in containers such as boxes or plastic bags and labeled. See [here](https://cws.auburn.edu/shared/files?id=227&filename=EM-UsedHGLampGuidance.pdf) if broken. Call RMS immediately after changing out lamps for pick-up.
+![<!--- Lamps --->](images/lab-waste/lamp.jpg){width=50% height=50%}
+* 
+ 
+
+
 <!-- 
 ----------
 ## Computer setting
