@@ -1,6 +1,11 @@
 # Technologies
 
+Under construction.
+
+<!-- 
+----------
 ## Computer setting
+
 
 ## Box
 
@@ -97,6 +102,7 @@ Setting for each project
 - Our paper will appear in [these journals](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090).
 - Rating review process of each journal: [SciRev](https://scirev.org/)
 
+-->
 
 
 
