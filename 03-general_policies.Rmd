@@ -19,20 +19,24 @@ GTA fellowships of $1000 per semester are available occasionally through the dep
 Ultimately, the job of researchers is writing. Therefore, graduate students are encouraged to write their work as they progress through their degree program. So we have productivity incentives as follows:
 
 * Submit a paper to a refereed journal (the first submission for each paper) co-authored with NM
-  + first (co-first) or corresponding author: $1,200 per year added to stipend 
-  + co-authors: $200 one-time award in student account
-  
-* Accepted at exceptional journals (incentive = 1 in the [list](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090)) co-authored with NM
   + first (co-first) or corresponding author: $500 one-time award in the student account
+  + co-authors: $100 one-time award in student account
+
+* Accepted at a refereed journal co-authored with NM
+  + first (co-first) or corresponding author: $500 one-time award in the student account
+  + co-authors: $100 one-time award in student account
+  + Accepted at exceptional journals (incentive = 1 in the [list](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090)): additional $500 one-time award to the first (co-first) or corresponding author
 
 * Accepted at refereed journals, not co-authored with NM
   + first (co-first) or corresponding author: $100 one-time award in the student account
 
-* Grant
+* Research Grant
   + Although the students' main role is to be trained to do good research, write a good paper, and present the results, I encourage having an opportunity to do grant writing for skill development. See [Fellowship and Grant opportunities] for information, and feel free to add.
-  + accepted grant: 10% of grant income per year added to stipend
+  + Accepted grant: 10% of research grant income added to stipend as a one-time award. For example, if you get a [$2,500 grant](https://iussi.cyberbee.net/awards/), you will receive $250. The PI does not need to be a coauthor (Most student grants do not allow that).
 
 * If you achieve something noteworthy, please let me know. I may add that to this policy.
+
+* There are graduate school rules for the upper threshold for the amount that can be added to your base stipend. So, I may not be able to increase the stipend sometimes (e.g., if you get a $1M grant, I cannot add $100,000), but I do my best. 
 
 2. **Undergraduates**
 Undergraduate student pay rates usually begin at $10 per hour.
@@ -42,13 +46,20 @@ Undergraduate student pay rates usually begin at $10 per hour.
 ## Lab meetings and seminars
 
 1. **Daily journal club**
-  + Mizumoto lab has a daily journal club (Mon-Fri, 11:30am-12:00pm at NM's office, TBC). No preparation will be required other than downloading a pdf or printing it. We will read one paper together within 30 min. If you find a paper you want to read, just add it to the [list](https://docs.google.com/spreadsheets/d/1oH9S6sksLE8oym9vj8eIPnwtD1yuOtqDAbN96wR89H0/edit?gid=0#gid=0).
+  + Mizumoto lab has a daily journal club (Mon-Fri, 11:30am-12:00pm at NM's office, TBC). No preparation will be required other than downloading a pdf or printing it. We will read one paper together within 30 min. If you find a paper you want to read, add it to the [list](https://docs.google.com/spreadsheets/d/1oH9S6sksLE8oym9vj8eIPnwtD1yuOtqDAbN96wR89H0/edit?gid=0#gid=0). Any papers are welcome. Do you have papers you need to read for your assignments, writing, or studying? Put them in the list. They do not need to be a good paper.
+  + The purpose of the journal club is to have a habit of reading papers. Reading paper builds your foundation for writing. You are going to read ~150 papers/year just through this journal club.
+  + Journal Club format (we do not read just silently but go through the paper with interactive discussion):
+    + 0-3  : Read out the title and abstract to understand the main point of the paper
+    + 3-10 : Read the introduction quickly and individually in ~ 5 min. Point out the important sentence for each paragraph.
+    + 10-25: Interpret figures one by one through discussion.
+    + 25-30: Follow-up discussion
   
 2. **Department seminar**
   + The Department of Entomology & Plant Pathology has a department seminar during semesters; you are expected to attend it. Ask a question even if it differs greatly from our field (mostly, they are!). Thinking about what to ask for a question is the most effective way to attend seminars.
 
 3. **Lab meeting**
-  + I am thinking of a biweekly lab meeting to present the progress. To discuss this later.
+  + I am thinking of a lab meeting to present the progress. To discuss this later.
+  <!-- This should not be presentation based. Rather, write a paragraph introducing what you did, methods, and figures. -->
 
 4. **Shared Lab Meeting**
   + We have shared lab meetings between Penick Lab (Entomology), Mizumoto Lab (Entomology), and Smith Lab (Biology) on collective behavior in social insects. This is a monthly meeting on the first week of Friday.
