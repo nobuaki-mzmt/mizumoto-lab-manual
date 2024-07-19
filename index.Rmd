@@ -28,14 +28,14 @@ Here is the [Lab Website](https://mizumoto-lab.com/).
 
 ## Mission Statement
 
-Mizumoto lab aims to trace the evolution of collective behavior in termites. We will identify behavioral rules underlying termite communications and relate behavioral diversity with social structures and pest status. We believe behavioral findings come from a new perspective and a small trick of experiments, not solely from advanced technology. Thus, we strive to create a constructive environment, turning daily discussions into exciting research ideas.  
+Mizumoto lab aims to trace the evolution of collective behavior in termites. We will identify behavioral rules underlying termite communications and relate behavioral diversity with social structures and pest status. We believe behavioral findings come from a new perspective and a small set of carefully designed experiments, not solely from advanced technology. Thus, we strive to create a constructive environment, turning daily discussions into exciting research ideas.  
   
-Also, one of our missions is to provide a comprehensive understanding of termite diversity. Knowledge of termites is highly biased as a destructive structural pest. However, among > 3,000 termite species in this world, only a handful of species are counted as destructive pests. We want to reveal why some termites are pests and others are not. We will contribute to society by sharing a comprehensive picture of our tiny creatures.
+Also, one of our missions is to provide a comprehensive understanding of termite diversity. Knowledge of termites is highly biased towards destructive structural pest species. However, among > 3,000 termite species in this world, only a handful are considered as destructive pests. We want to reveal why some termites are pests and others are not. We will contribute to society by sharing a comprehensive picture of our tiny creatures.
 
 ----------
 
 ## Notes
-Our lab manual is designed to be always under construction. Please input your feedback. I strive to create a better environment for all lab members, which should vary dynamically according to time.  
+Our lab manual is designed to be continually under construction. Please input your feedback. I strive to create a better environment for all lab members, which should vary dynamically according to time.  
   
 If you are new to the lab, please read and understand these lab policies (especially sections 1-4), and then submit the form ([pdf](https://github.com/nobuaki-mzmt/mizumoto-lab-manual/blob/main/sign_form.pdf), [docs](https://github.com/nobuaki-mzmt/mizumoto-lab-manual/blob/main/sign_form.docs)) to NM.  
   
