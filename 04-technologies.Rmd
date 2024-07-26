@@ -6,6 +6,14 @@ Under construction.
 
 ## Lab
 
+### Termite handling
+
+<!-- feedback from Elijah
+You mention that we kill many termites during research at the beginning general section of the lab manual. It may be good to add during this section or come back during a later section (such as learning objectives), that handling and maintaining termites can be much different than the handling in other insect systems. Learning how to work with specific insect groups, and understanding their requirements to survive and thrive when maintaining or using them in experiments is an essential skill. I figured this out when trying to manage a colony of R. flavipes for my personal enjoyment; the colony died likely resulting from desiccation because my colony conditions were not adequate. Some species are highly sensitive to handling mortality and require specific environments to avoid losses of individuals and lab colonies. Understanding how to best manage colonies and handle termites during experiments can help in decreasing handling mortality and ensure success of experiments. 
+
+I would have added this, but I wanted input from you first before I made any significant changes. 
+-->
+
 ### Lab waste
 
 * Chemicals
@@ -34,6 +42,9 @@ Under construction.
   + Lab personnel are responsible for taking broken glass to the trash.
 
 ----------
+
+## Field
+
 
 ## Hardware
 

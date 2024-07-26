@@ -55,6 +55,7 @@ _What PI (NM) expects of you_
 ## Skills
 We expect you to develop these skills. See [Technologies].
 
+* Knowing how to handle and maintain your studying organisms
 * Using R for statistical analysis and data analysis. You may also use it for modeling and simple simulations.
 * Using Python for image and video analysis.
 * Being able to use command-line interfaces, such as Command prompt and PowerShell

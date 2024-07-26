@@ -14,7 +14,8 @@ Here is a list of fellowships/grants to which lab members may apply. You can alw
   + Available to US citizens.
 * [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
   + Available to US citizen graduate students in their first or second year without a Master. The deadline is typically early October. Provides 3 years of funding with an annual stipend. 
-
+  
+  
 2. **Fellowship opportunities for postdoc**
 
 * [NSF Postdoctoral Research Fellowships](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb)
@@ -22,7 +23,8 @@ Here is a list of fellowships/grants to which lab members may apply. You can alw
 * [USDA NIFA Postdoctoral Fellowship](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development)
   + Available to US citizens.
 * [HFSP fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
-
+  
+  
 3. **Grant opportunities**
 
 * [USDA NIFA SARE](https://www.sare.org/grants/): There is a grant for Graduate students.
@@ -35,6 +37,8 @@ Here is a list of fellowships/grants to which lab members may apply. You can alw
 * [William L. and Ruth D. Nutting Termite Research Grant](https://iussi.cyberbee.net/awards/)
   + IUSSI - NAS has various small research grants for students studying social insects. I highly recommend applying for termtie one.
 * The Animal Behavior Society has [student research grant](https://www.animalbehaviorsociety.org/web/awards-srg.php) and [travel grant for conference](https://www.animalbehaviorsociety.org/web/awards-student.php)
+* [American Society of Naturalist](https://www.amnat.org/announcements/apply-student-research-award.html)
+* [The Society for Integrative & Comparative Biology](https://sicb.org/grants-and-scholarships/)
 * [Western North American Naturalist](https://scholarsarchive.byu.edu/wnan/grant_individual.html)
 * [Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewis-and-clark-fund-exploration-and-field-research)
   + For doctoral students to do fieldwork.
@@ -44,7 +48,8 @@ Here is a list of fellowships/grants to which lab members may apply. You can alw
 * [ATBC seed research grant](https://tropicalbiology.org/grants-awards/atbc-seed-research-grant/)
   + research grant for students to study in the tropics.
 * [American Museum of Natural History](https://www.amnh.org/research/richard-gilder-graduate-school/academics/fellowship-and-grant-opportunities/research-grants-and-graduate-student-exchange-fellowships)
-
+  
+  
 4. **Grant link mainly for NM**
 
 * [NSF BIO](https://www.nsf.gov/dir/index.jsp?org=BIO)
@@ -79,6 +84,11 @@ Conferences are a great way to practice presenting your work and meet new people
   + Annual in Spring
 * [National Conference on Urban Entomology (NCUE)](https://ncue.tamu.edu/)
   + more applied
+* [The Animal Behavior Society](https://www.animalbehaviorsociety.org/web/index.php)
+  + Annual in Summer
+* [The American Naturalist](https://www.amnat.org/meetings/mee-coming.html)
+* [The Society for Integrative & Comparative Biology](https://sicb.org/events/)
+
 
 2. International Conferences
 
@@ -88,8 +98,6 @@ Conferences are a great way to practice presenting your work and meet new people
 * IUSSI
   + Every 4 years (2026,2030,2034,...) in Summer
   + Deadline is early
-* The Animal Behavior Society
-  + Annual in Summer
 * [Association for the Study of Animal Behaviour (ASAB)](https://www.asab.org)
   + UK-based but often internationally
   + Spring, summer, and winter meeting
