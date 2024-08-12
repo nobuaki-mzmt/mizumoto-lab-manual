@@ -104,3 +104,4 @@ writing
 section
 field
 termite-handling
+use-python-in-rstudio

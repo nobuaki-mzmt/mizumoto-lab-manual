@@ -124,6 +124,16 @@ To install Python:
 - Download the [Anaconda Distribution](https://www.anaconda.com/distribution/)
 
 ----------
+### Use Python in Rstudio
+1. create a virtual environment specific for the project
+```{bash}
+cd path-to-the-project-directry
+conda create --prefix ./env 
+```
+
+
+----------
+
 
 ### Video edit
 
