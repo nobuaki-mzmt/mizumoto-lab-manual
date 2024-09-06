@@ -67,7 +67,7 @@ The Interface's screen resolution is determined by the video settings, but the r
 
 ----------
 
-## Data managements
+## Data management
 
 ### Naming files
 
@@ -79,18 +79,35 @@ Here are some rules when you name files
 * Never use " " to separate content. Use "_" instead.
   + 👍 : draft_termite_tunnel.docx
   + 👎 : draft termite tunnel.docx
+* The name of the root folder of Microsoft OneDrive has a space (e.g., OneDrive - Auburn University), which makes us crazy. [This link](https://blog.jongallant.com/2020/01/onedrive-rename-remove-spaces-from-folder-name/) provides a good solution. Here are summary of what we will do.
+  1. Open the command prompt as administrator
+  2. Navigate to the parent folder of your current OneDrive folder
+  3. execute this command: mklink /J OneDrive_Auburn "OneDrive - Auburn University"
+  4. You may modify "OneDrive_Auburn" and "OneDrive - Auburn University" as you want
+  5. Now you can access to OneDrive from "OneDrive_Auburn". From now on, just open all your files from the junction folder, not the OneDrive folder.
+  
+----------
+
+### OneDrive
+
+Working data, codes, and manuscripts will be saved in OneDrive. Download [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) and sign in as an AU account to OneDrive. Also, see the above to remove space from the OneDrive root folder.  
+I expect working project folders to be structured as follows (example).
+* OneDrive_Auburn
+  + Projects
+    + mic_ner_tandem_run
+      + draft
+      + analysis
+        + codes
+        + data_raw
+        + data_fmt
+        + output
+where we put draft-related items in draft and analysis-related items in analysis. The entire project folder (here, mic_ner_tandem_run) will be organized by git and github.
 
 ----------
 
 ### Box
 
-All the lab data, codes, and drafts are stored on Box. Install [Box Drive](https://auburn.app.box.com/) and make sure logging into your Box account and save files locally but within Box Drive (not elsewhere). Thus, your project files should look like:
-
-* Box
-  + Projects
-    + mic_ner_tandem_run
-      + draft
-      + analysis
+We use Box to store larger datasets and finished projects. Do not put currently working projects. Apparently, Box causes problems coping with GitHub and RStudio as of 240906. This will change in the future.
 
 ----------
 
