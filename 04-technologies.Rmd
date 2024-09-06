@@ -247,7 +247,8 @@ Mac
 The ```PATH``` is an environment variable in your operating system that tells the system where to look for executable files (e.g., FFmpeg, imagemagick, anaconda, opencv) when you run commands in the Command Prompt or terminal.  
 For example, by adding FFmpeg's bin directory to the ```PATH```, you enable the system to find and run FFmpeg from anywhere, without needing to navigate to its folder every time. You can just type ```ffmpeg``` in the Command Prompt and it will work. Without adding it to the PATH, you would need to navigate to the folder where FFmpeg is installed and run the command from there.
 
-### Codecs (I cannot play a video in my PC)
+### I cannot play a video in my PC
+**1. Codec**  
 A codec (short for compressor-decompressor) is a tool that compresses and decompresses digital media files, such as videos and audio. There are various methods of codecs, and due to this variation, some videos may not be able to play in your PC.  
 **Examples of Codecs**  
 
@@ -269,3 +270,8 @@ This command specifies H.265 for video and AAC for audio.
 **Investigate the codec of your video**  
 ```ffmpeg -i video.mp4```
 
+**2. Pixel format**  
+H.265 (HEVC) is more efficient at compressing video, especially at higher bit depths (e.g., 10-bit), while H.264 might not support 10-bit color properly or is not configured to handle it.  
+When we convert h265 to h264 and encounter the error, changing color depth could solve the problem.  
+```ffmpeg -i Kalotermes.MOV -vf scale=640:-1 -pix_fmt yuv420p -c:v libx264 Kalotermes_h264.mp4```  
+```-pix_fmt yuv420p```: Converts the video to 8-bit color depth, which is more compatible with H.264 encoding and standard media players.

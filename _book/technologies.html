@@ -141,7 +141,7 @@
 <li class="chapter" data-level="5.7" data-path="technologies.html"><a href="technologies.html#notes-1"><i class="fa fa-check"></i><b>5.7</b> Notes</a>
 <ul>
 <li class="chapter" data-level="5.7.1" data-path="technologies.html"><a href="technologies.html#what-is-path"><i class="fa fa-check"></i><b>5.7.1</b> What is PATH?</a></li>
-<li class="chapter" data-level="5.7.2" data-path="technologies.html"><a href="technologies.html#codecs-i-cannot-play-a-video-in-my-pc"><i class="fa fa-check"></i><b>5.7.2</b> Codecs (I cannot play a video in my PC)</a></li>
+<li class="chapter" data-level="5.7.2" data-path="technologies.html"><a href="technologies.html#i-cannot-play-a-video-in-my-pc"><i class="fa fa-check"></i><b>5.7.2</b> I cannot play a video in my PC</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="6" data-path="opporunities.html"><a href="opporunities.html"><i class="fa fa-check"></i><b>6</b> Opporunities</a>
@@ -452,9 +452,10 @@ journals</a>.</li>
 <p>The <code>PATH</code> is an environment variable in your operating system that tells the system where to look for executable files (e.g., FFmpeg, imagemagick, anaconda, opencv) when you run commands in the Command Prompt or terminal.<br />
 For example, by adding FFmpeg’s bin directory to the <code>PATH</code>, you enable the system to find and run FFmpeg from anywhere, without needing to navigate to its folder every time. You can just type <code>ffmpeg</code> in the Command Prompt and it will work. Without adding it to the PATH, you would need to navigate to the folder where FFmpeg is installed and run the command from there.</p>
 </div>
-<div id="codecs-i-cannot-play-a-video-in-my-pc" class="section level3 hasAnchor" number="5.7.2">
-<h3><span class="header-section-number">5.7.2</span> Codecs (I cannot play a video in my PC)<a href="technologies.html#codecs-i-cannot-play-a-video-in-my-pc" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>A codec (short for compressor-decompressor) is a tool that compresses and decompresses digital media files, such as videos and audio. There are various methods of codecs, and due to this variation, some videos may not be able to play in your PC.<br />
+<div id="i-cannot-play-a-video-in-my-pc" class="section level3 hasAnchor" number="5.7.2">
+<h3><span class="header-section-number">5.7.2</span> I cannot play a video in my PC<a href="technologies.html#i-cannot-play-a-video-in-my-pc" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><strong>1. Codec</strong><br />
+A codec (short for compressor-decompressor) is a tool that compresses and decompresses digital media files, such as videos and audio. There are various methods of codecs, and due to this variation, some videos may not be able to play in your PC.<br />
 <strong>Examples of Codecs</strong></p>
 <ul>
 <li>H.264 (video)
@@ -475,6 +476,11 @@ This command specifies H.264 for video and AAC for audio.</p>
 This command specifies H.265 for video and AAC for audio.</p>
 <p><strong>Investigate the codec of your video</strong><br />
 <code>ffmpeg -i video.mp4</code></p>
+<p><strong>2. Pixel format</strong><br />
+H.265 (HEVC) is more efficient at compressing video, especially at higher bit depths (e.g., 10-bit), while H.264 might not support 10-bit color properly or is not configured to handle it.<br />
+When we convert h265 to h264 and encounter the error, changing color depth could solve the problem.<br />
+<code>ffmpeg -i Kalotermes.MOV -vf scale=640:-1 -pix_fmt yuv420p -c:v libx264 Kalotermes_h264.mp4</code><br />
+<code>-pix_fmt yuv420p</code>: Converts the video to 8-bit color depth, which is more compatible with H.264 encoding and standard media players.</p>
 
 </div>
 </div>
