@@ -141,6 +141,7 @@
 <li class="chapter" data-level="5.7" data-path="technologies.html"><a href="technologies.html#notes-1"><i class="fa fa-check"></i><b>5.7</b> Notes</a>
 <ul>
 <li class="chapter" data-level="5.7.1" data-path="technologies.html"><a href="technologies.html#what-is-path"><i class="fa fa-check"></i><b>5.7.1</b> What is PATH?</a></li>
+<li class="chapter" data-level="5.7.2" data-path="technologies.html"><a href="technologies.html#codecs-i-cannot-play-a-video-in-my-pc"><i class="fa fa-check"></i><b>5.7.2</b> Codecs (I cannot play a video in my PC)</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="6" data-path="opporunities.html"><a href="opporunities.html"><i class="fa fa-check"></i><b>6</b> Opporunities</a>
@@ -287,8 +288,7 @@ provides a good solution. Here are summary of what we will do.
 <ol style="list-style-type: decimal">
 <li>Open the command prompt as administrator</li>
 <li>Navigate to the parent folder of your current OneDrive folder</li>
-<li>execute this command: mklink /J OneDrive_Auburn “OneDrive -
-Auburn University”</li>
+<li>execute this command: <code>mklink /J OneDrive_Auburn "OneDrive - Auburn University"</code></li>
 <li>You may modify “OneDrive_Auburn” and “OneDrive - Auburn
 University” as you want</li>
 <li>Now you can access to OneDrive from “OneDrive_Auburn”. From now
@@ -395,11 +395,11 @@ Distribution</a></li>
 <ul>
 <li>Install Homebrew (if not installed):
 <ul>
-<li>Open Terminal and run: <code>{bash} /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</code></li>
+<li>Open Terminal and run: <code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</code></li>
 </ul></li>
 <li>Install FFmpeg:
 <ul>
-<li><code>{bash} brew install ffmpeg</code></li>
+<li><code>brew install ffmpeg</code></li>
 </ul></li>
 </ul>
 <p><a href="https://github.com/nobuaki-mzmt/memo/blob/main/cmd.cmd">Sample codes</a>. We can always ask ChatGPT that e.g., “write a code to use ffmpeg to change the resolution 640 in width in windows PC”. They provide “ffmpeg -i input.mp4 -vf scale=640:-1 -c:a copy output.mp4”</p>
@@ -451,6 +451,30 @@ journals</a>.</li>
 <h3><span class="header-section-number">5.7.1</span> What is PATH?<a href="technologies.html#what-is-path" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>The <code>PATH</code> is an environment variable in your operating system that tells the system where to look for executable files (e.g., FFmpeg, imagemagick, anaconda, opencv) when you run commands in the Command Prompt or terminal.<br />
 For example, by adding FFmpeg’s bin directory to the <code>PATH</code>, you enable the system to find and run FFmpeg from anywhere, without needing to navigate to its folder every time. You can just type <code>ffmpeg</code> in the Command Prompt and it will work. Without adding it to the PATH, you would need to navigate to the folder where FFmpeg is installed and run the command from there.</p>
+</div>
+<div id="codecs-i-cannot-play-a-video-in-my-pc" class="section level3 hasAnchor" number="5.7.2">
+<h3><span class="header-section-number">5.7.2</span> Codecs (I cannot play a video in my PC)<a href="technologies.html#codecs-i-cannot-play-a-video-in-my-pc" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>A codec (short for compressor-decompressor) is a tool that compresses and decompresses digital media files, such as videos and audio. There are various methods of codecs, and due to this variation, some videos may not be able to play in your PC.<br />
+<strong>Examples of Codecs</strong></p>
+<ul>
+<li>H.264 (video)
+<ul>
+<li>This is a widely used codec.</li>
+</ul></li>
+<li>HEVC (H.265) (video):
+<ul>
+<li>Compresses video files even more efficiently than H.264, often with similar or better quality.</li>
+<li>However, windows PC stops supporting this codec since Windows 10. This is frustrating. We need to buy the extension from the <a href="https://apps.microsoft.com/detail/9nmzlz57r3t7?hl=en-US&amp;gl=US">Miscrosoft Store</a>. This is just $0.99. I don’t understand why windows stop providing this as default. Most problems happen due to this.</li>
+</ul></li>
+</ul>
+<p><strong>Change the codec of your video</strong><br />
+This can be done using <a href="technologies.html#ffmpeg-video-edits">FFmpeg (Video edits)</a> very easily.<br />
+<code>ffmpeg -i input.mov -c:v libx264 -c:a aac output.mp4</code><br />
+This command specifies H.264 for video and AAC for audio.</p>
+<p><code>ffmpeg -i input.mov -c:v libx265 -c:a aac output.mp4</code><br />
+This command specifies H.265 for video and AAC for audio.</p>
+<p><strong>Investigate the codec of your video</strong><br />
+<code>ffmpeg -i video.mp4</code></p>
 
 </div>
 </div>

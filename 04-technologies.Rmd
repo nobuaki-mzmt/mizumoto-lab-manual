@@ -115,8 +115,7 @@ Here are some rules when you name files
     provides a good solution. Here are summary of what we will do.
     1.  Open the command prompt as administrator
     2.  Navigate to the parent folder of your current OneDrive folder
-    3.  execute this command: mklink /J OneDrive_Auburn "OneDrive -
-        Auburn University"
+    3.  execute this command: ```mklink /J OneDrive_Auburn "OneDrive - Auburn University"```
     4.  You may modify "OneDrive_Auburn" and "OneDrive - Auburn
         University" as you want
     5.  Now you can access to OneDrive from "OneDrive_Auburn". From now
@@ -205,9 +204,9 @@ Windows
 Mac
 
 - Install Homebrew (if not installed):
-  - Open Terminal and run: ```{bash} /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
+  - Open Terminal and run: ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
 - Install FFmpeg:
-  -   ```{bash} brew install ffmpeg ```
+  -   ```brew install ffmpeg ```
 
 [Sample codes](https://github.com/nobuaki-mzmt/memo/blob/main/cmd.cmd). We can always ask ChatGPT that e.g., "write a code to use ffmpeg to change the resolution 640 in width in windows PC". They provide "ffmpeg -i input.mp4 -vf scale=640:-1 -c:a copy output.mp4"
 
@@ -247,3 +246,26 @@ Mac
 ### What is PATH?
 The ```PATH``` is an environment variable in your operating system that tells the system where to look for executable files (e.g., FFmpeg, imagemagick, anaconda, opencv) when you run commands in the Command Prompt or terminal.  
 For example, by adding FFmpeg's bin directory to the ```PATH```, you enable the system to find and run FFmpeg from anywhere, without needing to navigate to its folder every time. You can just type ```ffmpeg``` in the Command Prompt and it will work. Without adding it to the PATH, you would need to navigate to the folder where FFmpeg is installed and run the command from there.
+
+### Codecs (I cannot play a video in my PC)
+A codec (short for compressor-decompressor) is a tool that compresses and decompresses digital media files, such as videos and audio. There are various methods of codecs, and due to this variation, some videos may not be able to play in your PC.  
+**Examples of Codecs**  
+
+- H.264 (video)
+  - This is a widely used codec.
+
+- HEVC (H.265) (video):
+  - Compresses video files even more efficiently than H.264, often with similar or better quality.
+  - However, windows PC stops supporting this codec since Windows 10. This is frustrating. We need to buy the extension from the [Miscrosoft Store](https://apps.microsoft.com/detail/9nmzlz57r3t7?hl=en-US&gl=US). This is just $0.99. I don't understand why windows stop providing this as default. Most problems happen due to this.
+
+**Change the codec of your video**  
+This can be done using [FFmpeg (Video edits)] very easily.  
+```ffmpeg -i input.mov -c:v libx264 -c:a aac output.mp4```  
+This command specifies H.264 for video and AAC for audio.
+
+```ffmpeg -i input.mov -c:v libx265 -c:a aac output.mp4```  
+This command specifies H.265 for video and AAC for audio.
+
+**Investigate the codec of your video**  
+```ffmpeg -i video.mp4```
+
