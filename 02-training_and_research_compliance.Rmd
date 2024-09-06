@@ -61,7 +61,7 @@ I know the story of a silly doctoral student named Nobuaki Mizumoto at Kyoto Uni
   
 **Data backup**  
 Long story short. **Make a backup for your data, codes, and drafts.**
-In Mizumoto Lab, all the data, code, and drafts must be stored in Box Drive. Auburn University provides the [access](https://auburn.box.com). All these data for every single project should be stored in a single folder (also managed using GitHub), which has a minimum structure of  
+In Mizumoto Lab, all the data, code, and drafts must be stored in either OneDrive or Box Drive (see [Data management practices]). Auburn University provides the [access](https://auburn.box.com). All these data for every single project should be stored in a single folder (also managed using GitHub), which has a minimum structure of  
 
 * root
   + README
