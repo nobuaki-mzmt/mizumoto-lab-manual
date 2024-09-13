@@ -176,14 +176,28 @@ Go to [R Project](http://www.r-project.org) Go to
 
 ### Python
 
-To install Python:
+Use virtual environment for python.  
+**1. What is a Virtual Environment?**  
+A virtual environment is a self-contained space that contains a Python installation and its packages. It allows you to create isolated spaces for every single project, each with its own set of dependencies and configurations. This isolation ensures that projects do not interfere with each other.
 
--   Download the [Anaconda
-    Distribution](https://www.anaconda.com/distribution/)
+**2. Why is it Important?**  
+Without virtual environments, we will face version conflicts and compatibility issues. Also, tracking the version of python and packages is important for reproducibility. This will make everything easier.
 
-|                                                                                     |
-|------------|
-| \### Use Python in Rstudio 1. create a virtual environment specific for the project |
+**3. Create virtual environment using Anaconda**  
+
+- Download the [Anaconda Distribution](https://www.anaconda.com/download/success) and install it.
+- We need to add Anaconda to PATH during installation process, or manually after that. See [What is PATH?] if you are not familier with PATH.
+- Create a new environment with Python 3.7 for example (you can change the version as you want)
+  - Open "Anaconda Prompt" or cmd
+  - ```conda create -n myenv python=3.7```
+  - put any name you like in "myenv". It should reflect project name.
+- Activate the new environment
+  - ```conda activate myenv```
+  - you are now in the virtual environment, and ready to install anything you want.
+- Deactivate the environment
+  - ```conda deactivate myenv```
+
+### Use Python in Rstudio 
 
 ### FFmpeg (Video edits)
 FFmpeg is a powerful open-source framework used for handling videos. We use this for basic tasks such as converting, encoding, and decoding.
@@ -195,10 +209,7 @@ Windows
 - Got to [FFmpeg official website](https://www.ffmpeg.org/)
 - Download the latest static build for Windows.
 - Once downloaded, extract the ZIP file to a desired location on your computer. recommended locations: "C:/Program Files/ffmpeg". (this keeps it in line with other program installations)
-- Set Up FFmpeg Path (see [What is PATH?] if you are not familier)
-  - Open "Edit the system environment variables" in the control panels. (you can open it just typeing path in the search bar after pushing start bottum)
-  - In the "Edit Environment Variable" window, click "New" and paste the path to the bin folder inside your extracted FFmpeg folder (e.g., C:/Program Files/ffmpeg/bin).
-  - Click "OK" on all windows to apply the changes.
+- Set up FFmpeg PATH (see [What is PATH?] if you are not familier)
 - Open Command Prompt and type ffmpeg to check if it’s installed correctly. 
 
 Mac
@@ -233,6 +244,11 @@ Mac
 
 ### VPN
 
+### Zotero (literature management)
+Zotero is a free, open-source reference manager designed to help users collect, organize, cite, and share research. Zotero could be much more convienient by using following plugins: Zotfile (handling PDF attachment well) and Zutilo (Batch editing).
+
+
+
 ------------------------------------------------------------------------
 
 ## Writing
@@ -246,8 +262,13 @@ Mac
 ### What is PATH?
 The ```PATH``` is an environment variable in your operating system that tells the system where to look for executable files (e.g., FFmpeg, imagemagick, anaconda, opencv) when you run commands in the Command Prompt or terminal.  
 For example, by adding FFmpeg's bin directory to the ```PATH```, you enable the system to find and run FFmpeg from anywhere, without needing to navigate to its folder every time. You can just type ```ffmpeg``` in the Command Prompt and it will work. Without adding it to the PATH, you would need to navigate to the folder where FFmpeg is installed and run the command from there.
+How to add to PATH (FFmpeg for example):  
 
-### I cannot play a video in my PC
+- Open "Edit the system environment variables" in the control panels. (you can open it just typeing path in the search bar after pushing start bottum)
+- In the "Edit Environment Variable" window, click "New" and paste the path to the bin folder inside your extracted FFmpeg folder (e.g., C:/Program Files/ffmpeg/bin).
+- Click "OK" on all windows to apply the changes.
+
+### I cannot play a video on my PC
 **1. Codec**  
 A codec (short for compressor-decompressor) is a tool that compresses and decompresses digital media files, such as videos and audio. There are various methods of codecs, and due to this variation, some videos may not be able to play in your PC.  
 **Examples of Codecs**  

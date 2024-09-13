@@ -23,7 +23,7 @@
 <meta name="author" content="Nobuaki Mizumoto" />
 
 
-<meta name="date" content="2024-09-06" />
+<meta name="date" content="2024-09-13" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -132,16 +132,18 @@
 <ul>
 <li class="chapter" data-level="5.5.1" data-path="technologies.html"><a href="technologies.html#r-and-rstudio"><i class="fa fa-check"></i><b>5.5.1</b> R and RStudio</a></li>
 <li class="chapter" data-level="5.5.2" data-path="technologies.html"><a href="technologies.html#python"><i class="fa fa-check"></i><b>5.5.2</b> Python</a></li>
-<li class="chapter" data-level="5.5.3" data-path="technologies.html"><a href="technologies.html#ffmpeg-video-edits"><i class="fa fa-check"></i><b>5.5.3</b> FFmpeg (Video edits)</a></li>
-<li class="chapter" data-level="5.5.4" data-path="technologies.html"><a href="technologies.html#tracking-software"><i class="fa fa-check"></i><b>5.5.4</b> Tracking software</a></li>
-<li class="chapter" data-level="5.5.5" data-path="technologies.html"><a href="technologies.html#opencv"><i class="fa fa-check"></i><b>5.5.5</b> OpenCV</a></li>
-<li class="chapter" data-level="5.5.6" data-path="technologies.html"><a href="technologies.html#vpn"><i class="fa fa-check"></i><b>5.5.6</b> VPN</a></li>
+<li class="chapter" data-level="5.5.3" data-path="technologies.html"><a href="technologies.html#use-python-in-rstudio"><i class="fa fa-check"></i><b>5.5.3</b> Use Python in Rstudio</a></li>
+<li class="chapter" data-level="5.5.4" data-path="technologies.html"><a href="technologies.html#ffmpeg-video-edits"><i class="fa fa-check"></i><b>5.5.4</b> FFmpeg (Video edits)</a></li>
+<li class="chapter" data-level="5.5.5" data-path="technologies.html"><a href="technologies.html#tracking-software"><i class="fa fa-check"></i><b>5.5.5</b> Tracking software</a></li>
+<li class="chapter" data-level="5.5.6" data-path="technologies.html"><a href="technologies.html#opencv"><i class="fa fa-check"></i><b>5.5.6</b> OpenCV</a></li>
+<li class="chapter" data-level="5.5.7" data-path="technologies.html"><a href="technologies.html#vpn"><i class="fa fa-check"></i><b>5.5.7</b> VPN</a></li>
+<li class="chapter" data-level="5.5.8" data-path="technologies.html"><a href="technologies.html#zotero-literature-management"><i class="fa fa-check"></i><b>5.5.8</b> Zotero (literature management)</a></li>
 </ul></li>
 <li class="chapter" data-level="5.6" data-path="technologies.html"><a href="technologies.html#writing"><i class="fa fa-check"></i><b>5.6</b> Writing</a></li>
 <li class="chapter" data-level="5.7" data-path="technologies.html"><a href="technologies.html#notes-1"><i class="fa fa-check"></i><b>5.7</b> Notes</a>
 <ul>
 <li class="chapter" data-level="5.7.1" data-path="technologies.html"><a href="technologies.html#what-is-path"><i class="fa fa-check"></i><b>5.7.1</b> What is PATH?</a></li>
-<li class="chapter" data-level="5.7.2" data-path="technologies.html"><a href="technologies.html#i-cannot-play-a-video-in-my-pc"><i class="fa fa-check"></i><b>5.7.2</b> I cannot play a video in my PC</a></li>
+<li class="chapter" data-level="5.7.2" data-path="technologies.html"><a href="technologies.html#i-cannot-play-a-video-on-my-pc"><i class="fa fa-check"></i><b>5.7.2</b> I cannot play a video on my PC</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="6" data-path="opporunities.html"><a href="opporunities.html"><i class="fa fa-check"></i><b>6</b> Opporunities</a>
@@ -358,24 +360,37 @@ This Lab Manual and Lab Website are created and managed by Github.</p>
 </div>
 <div id="python" class="section level3 hasAnchor" number="5.5.2">
 <h3><span class="header-section-number">5.5.2</span> Python<a href="technologies.html#python" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>To install Python:</p>
+<p>Use virtual environment for python.<br />
+<strong>1. What is a Virtual Environment?</strong><br />
+A virtual environment is a self-contained space that contains a Python installation and its packages. It allows you to create isolated spaces for every single project, each with its own set of dependencies and configurations. This isolation ensures that projects do not interfere with each other.</p>
+<p><strong>2. Why is it Important?</strong><br />
+Without virtual environments, we will face version conflicts and compatibility issues. Also, tracking the version of python and packages is important for reproducibility. This will make everything easier.</p>
+<p><strong>3. Create virtual environment using Anaconda</strong></p>
 <ul>
-<li>Download the <a href="https://www.anaconda.com/distribution/">Anaconda
-Distribution</a></li>
+<li>Download the <a href="https://www.anaconda.com/download/success">Anaconda Distribution</a> and install it.</li>
+<li>We need to add Anaconda to PATH during installation process, or manually after that. See <a href="technologies.html#what-is-path">What is PATH?</a> if you are not familier with PATH.</li>
+<li>Create a new environment with Python 3.7 for example (you can change the version as you want)
+<ul>
+<li>Open “Anaconda Prompt” or cmd</li>
+<li><code>conda create -n myenv python=3.7</code></li>
+<li>put any name you like in “myenv”. It should reflect project name.</li>
+</ul></li>
+<li>Activate the new environment
+<ul>
+<li><code>conda activate myenv</code></li>
+<li>you are now in the virtual environment, and ready to install anything you want.</li>
+</ul></li>
+<li>Deactivate the environment
+<ul>
+<li><code>conda deactivate myenv</code></li>
+</ul></li>
 </ul>
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>### Use Python in Rstudio 1. create a virtual environment specific for the project</td>
-</tr>
-</tbody>
-</table>
 </div>
-<div id="ffmpeg-video-edits" class="section level3 hasAnchor" number="5.5.3">
-<h3><span class="header-section-number">5.5.3</span> FFmpeg (Video edits)<a href="technologies.html#ffmpeg-video-edits" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="use-python-in-rstudio" class="section level3 hasAnchor" number="5.5.3">
+<h3><span class="header-section-number">5.5.3</span> Use Python in Rstudio<a href="technologies.html#use-python-in-rstudio" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="ffmpeg-video-edits" class="section level3 hasAnchor" number="5.5.4">
+<h3><span class="header-section-number">5.5.4</span> FFmpeg (Video edits)<a href="technologies.html#ffmpeg-video-edits" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>FFmpeg is a powerful open-source framework used for handling videos. We use this for basic tasks such as converting, encoding, and decoding.</p>
 <p><strong>How to Install FFmpeg</strong></p>
 <p>Windows</p>
@@ -383,12 +398,7 @@ Distribution</a></li>
 <li>Got to <a href="https://www.ffmpeg.org/">FFmpeg official website</a></li>
 <li>Download the latest static build for Windows.</li>
 <li>Once downloaded, extract the ZIP file to a desired location on your computer. recommended locations: “C:/Program Files/ffmpeg”. (this keeps it in line with other program installations)</li>
-<li>Set Up FFmpeg Path (see <a href="technologies.html#what-is-path">What is PATH?</a> if you are not familier)
-<ul>
-<li>Open “Edit the system environment variables” in the control panels. (you can open it just typeing path in the search bar after pushing start bottum)</li>
-<li>In the “Edit Environment Variable” window, click “New” and paste the path to the bin folder inside your extracted FFmpeg folder (e.g., C:/Program Files/ffmpeg/bin).</li>
-<li>Click “OK” on all windows to apply the changes.</li>
-</ul></li>
+<li>Set up FFmpeg PATH (see <a href="technologies.html#what-is-path">What is PATH?</a> if you are not familier)</li>
 <li>Open Command Prompt and type ffmpeg to check if it’s installed correctly.</li>
 </ul>
 <p>Mac</p>
@@ -404,15 +414,15 @@ Distribution</a></li>
 </ul>
 <p><a href="https://github.com/nobuaki-mzmt/memo/blob/main/cmd.cmd">Sample codes</a>. We can always ask ChatGPT that e.g., “write a code to use ffmpeg to change the resolution 640 in width in windows PC”. They provide “ffmpeg -i input.mp4 -vf scale=640:-1 -c:a copy output.mp4”</p>
 </div>
-<div id="tracking-software" class="section level3 hasAnchor" number="5.5.4">
-<h3><span class="header-section-number">5.5.4</span> Tracking software<a href="technologies.html#tracking-software" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="tracking-software" class="section level3 hasAnchor" number="5.5.5">
+<h3><span class="header-section-number">5.5.5</span> Tracking software<a href="technologies.html#tracking-software" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <ul>
 <li><a href="https://ymnk13.github.io/UMATracker/">UMATracker</a></li>
 <li><a href="https://sleap.ai/">SLEAP</a></li>
 </ul>
 </div>
-<div id="opencv" class="section level3 hasAnchor" number="5.5.5">
-<h3><span class="header-section-number">5.5.5</span> OpenCV<a href="technologies.html#opencv" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="opencv" class="section level3 hasAnchor" number="5.5.6">
+<h3><span class="header-section-number">5.5.6</span> OpenCV<a href="technologies.html#opencv" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <ol style="list-style-type: decimal">
 <li>Install OpenCV (<a href="https://github.com/opencv/opencv/releases" class="uri">https://github.com/opencv/opencv/releases</a>) (5M:
 4.3.0 6/24/2020)</li>
@@ -432,8 +442,12 @@ Distribution</a></li>
 <li>variable: C:</li>
 </ul>
 </div>
-<div id="vpn" class="section level3 hasAnchor" number="5.5.6">
-<h3><span class="header-section-number">5.5.6</span> VPN<a href="technologies.html#vpn" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="vpn" class="section level3 hasAnchor" number="5.5.7">
+<h3><span class="header-section-number">5.5.7</span> VPN<a href="technologies.html#vpn" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="zotero-literature-management" class="section level3 hasAnchor" number="5.5.8">
+<h3><span class="header-section-number">5.5.8</span> Zotero (literature management)<a href="technologies.html#zotero-literature-management" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Zotero is a free, open-source reference manager designed to help users collect, organize, cite, and share research. Zotero could be much more convienient by using following plugins: Zotfile (handling PDF attachment well) and Zutilo (Batch editing).</p>
 <hr />
 </div>
 </div>
@@ -450,10 +464,16 @@ journals</a>.</li>
 <div id="what-is-path" class="section level3 hasAnchor" number="5.7.1">
 <h3><span class="header-section-number">5.7.1</span> What is PATH?<a href="technologies.html#what-is-path" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>The <code>PATH</code> is an environment variable in your operating system that tells the system where to look for executable files (e.g., FFmpeg, imagemagick, anaconda, opencv) when you run commands in the Command Prompt or terminal.<br />
-For example, by adding FFmpeg’s bin directory to the <code>PATH</code>, you enable the system to find and run FFmpeg from anywhere, without needing to navigate to its folder every time. You can just type <code>ffmpeg</code> in the Command Prompt and it will work. Without adding it to the PATH, you would need to navigate to the folder where FFmpeg is installed and run the command from there.</p>
+For example, by adding FFmpeg’s bin directory to the <code>PATH</code>, you enable the system to find and run FFmpeg from anywhere, without needing to navigate to its folder every time. You can just type <code>ffmpeg</code> in the Command Prompt and it will work. Without adding it to the PATH, you would need to navigate to the folder where FFmpeg is installed and run the command from there.
+How to add to PATH (FFmpeg for example):</p>
+<ul>
+<li>Open “Edit the system environment variables” in the control panels. (you can open it just typeing path in the search bar after pushing start bottum)</li>
+<li>In the “Edit Environment Variable” window, click “New” and paste the path to the bin folder inside your extracted FFmpeg folder (e.g., C:/Program Files/ffmpeg/bin).</li>
+<li>Click “OK” on all windows to apply the changes.</li>
+</ul>
 </div>
-<div id="i-cannot-play-a-video-in-my-pc" class="section level3 hasAnchor" number="5.7.2">
-<h3><span class="header-section-number">5.7.2</span> I cannot play a video in my PC<a href="technologies.html#i-cannot-play-a-video-in-my-pc" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="i-cannot-play-a-video-on-my-pc" class="section level3 hasAnchor" number="5.7.2">
+<h3><span class="header-section-number">5.7.2</span> I cannot play a video on my PC<a href="technologies.html#i-cannot-play-a-video-on-my-pc" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p><strong>1. Codec</strong><br />
 A codec (short for compressor-decompressor) is a tool that compresses and decompresses digital media files, such as videos and audio. There are various methods of codecs, and due to this variation, some videos may not be able to play in your PC.<br />
 <strong>Examples of Codecs</strong></p>
