@@ -70,6 +70,15 @@ I would have added this, but I wanted input from you first before I made any sig
 
 ## Field
 
+### GPS coordinates
+Whenever you collect termites in the field, label by providing name, time, collector, and location (ideally coordinates in latitude and longitude). Then store all these information in the shared excel sheet for colony info (ask NM for access). The colony name is imperative. Keep labels for all subdivided colonies, groups and individuals not to get confused.  
+To record coordinates, you may use Garmin GPS unit (NM use [Garmin GPSMAP 66i](https://www.amazon.com/Garmin-Satellite-Communicator-TopoActive-Technology/dp/B08L8GF27L/ref=sr_1_3?keywords=GPSMAP%2B66i&qid=1673770485&sr=8-3&th=1). GPSMAP 64s is also available.) or use your smartphone with the app that can record waypoints.  
+
+- Android: [GPS Waypoints](https://play.google.com/store/apps/details?id=pt.bluecover.gpsegnos&hl=en_US)
+- Apple: [GPS Waypoints Lite](https://apps.apple.com/us/app/gps-waypoints-lite/id1577544292)
+
+When recording latitude and longitude, use a format of ```dd.ddddd```. e.g., use ```(32.59972, -85.48233)```, instead of ```(32°35'59.0"N, 85°28'56.4"W)```.
+
 ## Hardware
 
 ### Lab PCs

@@ -117,3 +117,4 @@ i-cannot-play-a-video-in-my-pc
 i-cannot-play-a-video-on-my-pc
 zotero-literature-management
 use-python-in-rstudio-1.-create-a-virtual-environment-specific-for-the-project
+gps-coordinates
