@@ -51,8 +51,8 @@ I would have added this, but I wanted input from you first before I made any sig
     -   Mercury-Containing Equipment (MCE) should be closed in a
         spill-proof container labeled "Used MCE". Call RMS for pick-up.
 
-![](images/Lab-waste/lamp.jpg){width="50%" height="50%"}
-![](images/Lab-waste/battery.png){width="50%" height="50%"}
+<!-- ![](images/Lab-waste/lamp.jpg){width="50%" height="50%"}
+![](images/Lab-waste/battery.png){width="50%" height="50%"} -->
 
 -   Electronics: call the [Waste Reduction and Recycling
     Department](http://auburn.edu/administration/facilities/organization/operations/campus-services/recycling/)
@@ -154,7 +154,7 @@ where we put draft-related items in draft and analysis-related items in analysis
 
 ### Box
 
-We use Box to store larger datasets and finished projects. Do not put
+We use Box to store larger dataset and finished projects. Do not put
 currently working projects. Apparently, Box causes problems coping with
 GitHub and RStudio as of 240906. This will change in the future.
 
@@ -162,11 +162,16 @@ GitHub and RStudio as of 240906. This will change in the future.
 
 Git is version control system, used for tracking code changes. Github is
 a web service using Git. These are very strong tools to work on coding.
-This Lab Manual and Lab Website are created and managed by Github.
+This Lab Manual and Lab Website are created and managed by Github.  
 
 1.  Install [Git](https://git-scm.com/downloads) on your PC.
 2.  Create a GitHub account [here](https://github.com/)
 3.  Install [GitHub Desktop](https://desktop.github.com/download/)
+
+**Updating Lab Website**  
+We have a [lab website](https://mizumoto-lab.com/), and each member can freely edit their own page under the member tab as long as it is not non-appropriate. When editing the lab website, create a branch and send a merge request.  
+
+
 
 ------------------------------------------------------------------------
 
