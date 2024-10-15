@@ -262,6 +262,13 @@ Mac
 Zotero is a free, open-source reference manager designed to help users collect, organize, cite, and share research. Zotero could be much more convienient by using following plugins: Zotfile (handling PDF attachment well) and Zutilo (Batch editing).
 
 
+------------------------------------------------------------------------
+
+## Smartphone
+
+### Camera app
+
+Recommend: Use apps that can adjust resolutions and other setting when taking photos and recording videos using Smart phone: [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera&hl=en_US) for Android and [Final Cut Camera](https://apps.apple.com/us/app/final-cut-camera/id6469552837) for iPhone.
 
 ------------------------------------------------------------------------
 
@@ -271,6 +278,15 @@ Zotero is a free, open-source reference manager designed to help users collect, 
     journals](https://docs.google.com/spreadsheets/d/1tNzj1UMuvO9vShVRI0QanOSFvRSSd8Q5cm1ndOqWjYg/edit?gid=1450194090#gid=1450194090).
 -   Rating review process of each journal: [SciRev](https://scirev.org/)
 
+------------------------------------------------------------------------
+
+## Supplies
+
+- Plastic containers
+  - [https://www.tristateplastics.com/plastics-products/other-display-cases/](https://www.tristateplastics.com/plastics-products/other-display-cases/)
+
+
+------------------------------------------------------------------------
 ## Notes
 
 ### What is PATH?
