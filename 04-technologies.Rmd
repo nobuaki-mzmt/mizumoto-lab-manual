@@ -239,7 +239,16 @@ Mac
 ### Tracking software
 
 -   [UMATracker](https://ymnk13.github.io/UMATracker/)
+
 -   [SLEAP](https://sleap.ai/)
+
+We have previously ran into issues when trying to merge projects related to having multiple skeletons in the project. This can arise due to bugs in the sleap, or when instances are deleted and the program still counts it as a lableled frame. Typically if you have this issue you will get the follwing error message: 
+-   ValueError: Labels.skeleton can only be used when there is only a single skeleton saved in the labels. Use Labels.skeletons instead.
+
+Here is the link for debugging this issue:
+-  https://github.com/talmolab/sleap/issues/1090
+In our case, the debugging code did not work. Here is a link to chat GPT on how we debugged the issue: 
+-  https://chatgpt.com/share/675760a1-190c-8012-824f-f2343ce14765
 
 ### OpenCV
 
