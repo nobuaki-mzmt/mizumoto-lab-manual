@@ -50,13 +50,31 @@ Undergraduate student pay rates usually begin at $10 per hour.
     + 3-10 : Read the introduction quickly and individually in ~ 5 min. Point out the important sentence for each paragraph.
     + 10-25: Interpret figures one by one through discussion.
     + 25-30: Follow-up discussion
-  
-2. **Department seminar**
-  + The Department of Entomology & Plant Pathology has a department seminar during semesters; you are expected to attend it. Ask a question even if it differs greatly from our field (mostly, they are!). Thinking about what to ask for a question is the most effective way to attend seminars.
 
-3. **Lab meeting**
-  + I am thinking of a lab meeting to present the progress. To discuss this later.
-  <!-- This should not be presentation based. Rather, write a paragraph introducing what you did, methods, and figures. -->
+2. **Lab meeting**
+  + The goal of the lab meetings is to provide meaningful updates that directly contribute to the development of thesis or paper. Each meeting will focus on discussing a single figure, which could represent either results or concepts. This format ensures that updates are purposeful, and that feedback directly supports academic progress.
+  + Figure presentation
+    + Presenter presents at least one figure that could be used as part of their thesis or paper.
+    + The figure can represent anything such as methods, results or concepts.
+  + Document preparation
+    + Presenter will prepare a 1–2-page document to accompany the figure, which should include:
+      + Background: Introduction information for the figure
+      + Methods: Explanation about the data collection
+      + Results: Explain the figure.
+      + Figure Legend: Detailed explanation of the figure 
+      + So, this is very similar to our format of Daily journal club. Make sure prepare documents which can be directly used to paper/thesis. **Do not prepare for the meeting. Meeting is the regular opportunity to make a progress on paper/thesis**.
+  + Meeting Frequency & Duration
+    + Each person presents **every 4 weeks**. (you can get ~ 10 figures for your thesis/paper)
+    + Each meeting lasts 30-60 min. We use the time of journal club on Friday.
+  + Pre-meeting preparation
+    + Send the document and figure to the lab members by 11:59pm on the day before.
+  + Discussion format
+    + Read the document in 5 minutes.
+    + Presenter explains the figure with context and relavance.
+    + Discuss figures and documents, focusing on constructive feedback for imporvements and next steps.
+
+3. **Department seminar**
+  + The Department of Entomology & Plant Pathology has a department seminar during semesters; you are expected to attend it. Ask a question even if it differs greatly from our field (mostly, they are!). Thinking about what to ask for a question is the most effective way to attend seminars.
 
 4. **Shared Lab Meeting**
   + We have shared lab meetings between Penick Lab (Entomology), Mizumoto Lab (Entomology), and Smith Lab (Biology) on collective behavior in social insects. This is a monthly meeting on the first week of Friday.
