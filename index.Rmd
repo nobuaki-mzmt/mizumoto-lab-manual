@@ -37,7 +37,7 @@ Also, one of our missions is to provide a comprehensive understanding of termite
 ## Notes
 Our lab manual is designed to be continually under construction. Please input your feedback. I strive to create a better environment for all lab members, which should vary dynamically according to time.  
   
-If you are new to the lab, please read and understand these lab policies (especially sections 1-4), and then submit the form ([pdf](https://github.com/nobuaki-mzmt/mizumoto-lab-manual/blob/main/sign_form.pdf), [docs](https://github.com/nobuaki-mzmt/mizumoto-lab-manual/blob/main/sign_form.docs)) to NM.  
+If you are new to the lab, please read and understand these lab policies (especially sections 1-4), and then submit the form ([pdf](https://github.com/nobuaki-mzmt/mizumoto-lab-manual/blob/main/sign_form.pdf), [docx](https://github.com/nobuaki-mzmt/mizumoto-lab-manual/blob/main/sign_form.docx), [google docs](https://docs.google.com/document/d/1BlF2w8JlpkbUV5o1kX86Fo4dSxipH7yStc1RrsWkzVE/edit?usp=sharing)) to NM.  
   
 This lab manual was inspired by several others and borrowed heavily from them (e.g., 
 [bablab](https://github.com/bablab/lab_manual), [marekborowiec-lab](https://github.com/marekborowiec/lab-wiki.wiki.git), 
