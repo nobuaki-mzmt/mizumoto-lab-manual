@@ -9,7 +9,7 @@ All lab members complete and keep track of the following training:
 * Responsible Conduct in Research Training
   + Please visit the [RCR website](https://cws.auburn.edu/OVPR/pm/compliance/rcr/home). Click on “Follow these steps to access the new course.”  Login to CITI and select Auburn University (you must do this for your training to be properly credited to you at Auburn).
   
-* Lab safety training (Auburn University) is available through [BioRaft](https://cws.auburn.edu/rms/pm/OnlineTraining).
+* Lab safety training (Auburn University) is available through [BioRaft](https://auburn.bioraft.com/).
 
 * Cybersecurity training
   + To access the training, log into AU Access and select the Employee Services tab. Next, click the icon. You will be directed to the training videos library that contains the required modules. To view the videos, select a module and click the icon. The videos may be viewed in any order. Typically, within 24 hours after you have completed the modules, you will receive an email confirmation from <noreply@auburn.edu> along with a certification of completion.
